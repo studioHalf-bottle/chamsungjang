@@ -1,0 +1,748 @@
+/* 
+	device width distinction - 
+	1024px ~ : Desktop layout
+	768px ~ 1023px : tablet layout
+	~ 767px, (min-aspect-ratio: 1/1) : mobile phone layout, widescreen aspect
+	360px ~ 767px, (max-aspect-ratio: 1/1) : mobile phone layout, portrait aspect
+	~ (320px) ~ 359px : legendary mobile phone layout
+
+	bootstrap 5 width distinction -
+	1400px ~ : XXLarge
+	1200px ~ 1399px : eXtraLarge
+	992px ~ 1199px : LarGe
+	768px ~ 991px : MeDium
+	576px ~ 767px : SMall
+	~ 575px : eXtraSmall
+*/
+/* basic constants */
+/* customising Bootrstrap theme */
+/*
+.row { margin-left: 0; margin-right: 0; }
+
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+	padding-left: 0; padding-right: 0; 
+}
+*/
+/* ---------- colour initialize settings ---------- */
+.colour-equalityGreen {
+  color: #2FC516;
+}
+
+.colour-background-equalityGreen {
+  background-color: #2FC516;
+}
+
+.colour-instagram {
+  color: #D91089;
+}
+
+.colour-tiktok {
+  color: #ffffff;
+}
+
+.colour-tiktok-sub {
+  color: #5eeff1;
+}
+
+.colour-facebook {
+  color: #1D5CBA;
+}
+
+.colour-twitter {
+  color: #4DD3FD;
+}
+
+.colour-youtube {
+  color: #FE1212;
+}
+
+.border-instagram {
+  border-color: #D91089;
+}
+
+.border-tiktok {
+  border-color: #5eeff1;
+}
+
+.border-facebook {
+  border-color: #1D5CBA;
+}
+
+.border-twitter {
+  border-color: #4DD3FD;
+}
+
+.border-youtube {
+  border-color: #FE1212;
+}
+
+/* scrollbar configuration - for webkit browsers */
+::-webkit-scrollbar {
+  width: 0;
+}
+
+div::-webkit-scrollbar {
+  width: 0;
+}
+
+div::-webkit-scrollbar-thumb {
+  background-color: rgba(193, 193, 193, 0.25);
+  border-radius: 6px;
+}
+div::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(193, 193, 193, 0.5);
+}
+
+/* scrollbar configuration - for Firefox */
+* {
+  scrollbar-width: none;
+}
+
+div {
+  scrollbar-color: rgba(193, 193, 193, 0.25) transparent;
+  scrollbar-width: thin;
+}
+
+/* ---------- HTML initialize settings ---------- */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  /* 1rem = this size. */
+  font-size: 16px;
+  line-height: 1.61;
+  font-style: normal;
+  font-weight: 400;
+  font-family: sans-serif;
+  word-break: keep-all;
+  position: relative;
+  overflow-x: hidden;
+}
+@media (min-width: 576px) {
+  html {
+    font-size: 18px;
+  }
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 20px;
+  }
+}
+@media (min-width: 992px) {
+  html {
+    font-size: 22px;
+  }
+}
+@media (min-width: 1200px) {
+  html {
+    font-size: 24px;
+  }
+}
+
+body {
+  /* font-family: BlinkMacSystemFont, "Apple SD Gothic Neo", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Noto Sans KR", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */
+  font-style: normal;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  width: 100%;
+  overflow-x: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+
+p {
+  margin: 0 0 0.75em 0;
+  padding: 0 0 0 0;
+}
+
+li {
+  margin-bottom: 0.75em;
+}
+
+div, input {
+  box-sizing: border-box;
+  background-color: transparent;
+  color: #000000;
+}
+
+*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* ---------- typo initializing ---------- */
+html {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+}
+
+span.u {
+  text-decoration: underline;
+}
+
+span.b {
+  font-weight: 900;
+}
+
+main.index article#column-left h2 {
+  font-family: "Noto Serif KR", "Hahmlet", serif;
+  font-size: 1.75rem;
+  margin-top: 0;
+  margin: 0 0 0.5em;
+  line-height: 1.35;
+}
+main.index article#column-right > a.home-hyperlink h2 {
+  font-family: "Noto Serif KR", "Hahmlet", serif;
+  font-size: 1.25rem;
+  margin-top: 0;
+  margin: 0 0 0.5em;
+  line-height: 1.35;
+}
+main.index article#column-right > a.home-hyperlink p {
+  font-size: 0.75rem;
+  line-height: 1.4;
+}
+main.index article#column-right > div#home-credit {
+  font-size: 0.5rem;
+  margin: 0 0 0.5em;
+  line-height: 1.35;
+}
+
+main.intro article#summary-sentences * {
+  font-weight: 800;
+  color: #000000; /*text-align: justify; word-break: normal;*/
+}
+main.intro article#summary-sentences h1 {
+  font-size: 2.25rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+main.intro article#summary-sentences h2 {
+  font-size: 1.75rem;
+  margin-top: 4em;
+}
+main.intro article#summary-sentences p {
+  font-family: "Noto Serif KR", "Hahmlet", serif;
+  font-size: 1.5rem;
+}
+main.intro article#summary-sentences p > span { /* margin-right: 0.5em; */ }
+main.intro article#summary-sentences p > span:hover {
+  cursor: pointer;
+}
+main.intro article#summary-sentences p > span.focused-sentence:hover {
+  cursor: default;
+}
+main.intro article#summary-sentences section#summary-section-1 p > span:hover {
+  color: #666666;
+}
+main.intro article#summary-sentences section#summary-section-1 p > span.focused-sentence:hover {
+  color: #ffffff;
+}
+main.intro article#summary-sentences section#summary-section-2 p > span:hover {
+  color: #37c447;
+}
+main.intro article#summary-sentences section#summary-section-2 p > span.focused-sentence:hover {
+  color: #ffffff;
+}
+main.intro article#summary-sentences section#summary-section-3 p > span:hover {
+  color: #7e37ba;
+}
+main.intro article#summary-sentences section#summary-section-3 p > span.focused-sentence:hover {
+  color: #ffffff;
+}
+main.intro article#detail-articles * {
+  font-weight: 800;
+  color: #ffffff; /*letter-spacing: calc(-5em/1000);*/
+}
+main.intro article#detail-articles p {
+  font-size: 1rem;
+}
+main.intro article#fullText h1, main.intro article#fullText h2, main.intro article#fullText h3 {
+  font-weight: 800; /*text-align: justify; word-break: normal;*/
+}
+main.intro article#fullText h1 {
+  font-size: 2.25rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #000000;
+}
+main.intro article#fullText h2 {
+  font-size: 1.75rem;
+  margin-top: 4em;
+  color: #ffffff;
+}
+main.intro article#fullText h3 {
+  font-family: "Noto Serif KR", "Hahmlet", serif;
+  font-size: 1.5rem;
+  margin-top: 1em;
+  margin-bottom: 0;
+  color: #000000;
+  background-color: #ffffff;
+}
+main.intro article#fullText p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+main.intro article#fullText section#fullText-section-1 {
+  border-left-style: solid;
+  border-left-color: #666666;
+}
+main.intro article#fullText section#fullText-section-1 > h2 {
+  background-color: #666666;
+}
+main.intro article#fullText section#fullText-section-2 {
+  border-left-style: solid;
+  border-left-color: #37c447;
+}
+main.intro article#fullText section#fullText-section-2 > h2 {
+  background-color: #37c447;
+}
+main.intro article#fullText section#fullText-section-3 {
+  border-left-style: solid;
+  border-left-color: #7e37ba;
+}
+main.intro article#fullText section#fullText-section-3 > h2 {
+  background-color: #7e37ba;
+}
+
+main.class-part-1 article#summary-sentences p > span.focused-sentence {
+  background-color: #666666;
+  color: #ffffff;
+}
+main.class-part-1 article#detail-articles {
+  background-color: #666666;
+}
+main.class-part-2 article#summary-sentences p > span.focused-sentence {
+  background-color: #37c447;
+  color: #ffffff;
+}
+main.class-part-2 article#detail-articles {
+  background-color: #37c447;
+}
+main.class-part-3 article#summary-sentences p > span.focused-sentence {
+  background-color: #7e37ba;
+  color: #ffffff;
+}
+main.class-part-3 article#detail-articles {
+  background-color: #7e37ba;
+}
+main.class-empty-detail.class-part-1 article#detail-articles, main.class-empty-detail.class-part-2 article#detail-articles, main.class-empty-detail.class-part-3 article#detail-articles {
+  background-color: #ffffff;
+}
+
+footer#page-footer {
+  text-align: center;
+}
+
+/* ---------- basic layout ---------- */
+header#page-header {
+  font-weight: 800;
+  font-size: 1rem;
+  width: 100vw;
+  height: 60px;
+  padding: 0.5em;
+  border-bottom: 1px solid #000000;
+  text-align: center;
+}
+header#page-header a#home-button {
+  color: #000000;
+  text-decoration: none;
+  cursor: pointer;
+}
+header#page-header div#navInfo {
+  position: absolute;
+  right: 0.5em;
+  top: 0.5em;
+  font-weight: 500;
+  font-size: 0.8em;
+}
+header#page-header div#navInfo button#navTrigger {
+  font-weight: 100;
+  font-size: 1.4em;
+  margin-left: 0.2em;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+#nav-container {
+  position: fixed;
+  height: 100vh;
+  width: 100%;
+  pointer-events: none;
+}
+
+#nav-container .bg {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 100%;
+  height: calc(100% - 70px);
+  visibility: hidden;
+  opacity: 0;
+  transition: 0.3s;
+  background: #000;
+}
+
+#nav-container:focus-within .bg {
+  visibility: visible;
+  opacity: 0.6;
+}
+
+#nav-container * {
+  visibility: visible;
+}
+
+.button {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 1;
+  -webkit-appearance: none;
+  border: 0;
+  background: transparent;
+  border-radius: 0;
+  height: 70px;
+  width: 30px;
+  cursor: pointer;
+  pointer-events: auto;
+  margin-left: 25px;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.icon-bar {
+  display: block;
+  width: 100%;
+  height: 3px;
+  background: #aaa;
+  transition: 0.3s;
+}
+
+.icon-bar + .icon-bar {
+  margin-top: 5px;
+}
+
+#nav-container:focus-within .button {
+  pointer-events: none;
+}
+
+#nav-container:focus-within .icon-bar:nth-of-type(1) {
+  transform: translate3d(0, 8px, 0) rotate(45deg);
+}
+
+#nav-container:focus-within .icon-bar:nth-of-type(2) {
+  opacity: 0;
+}
+
+#nav-container:focus-within .icon-bar:nth-of-type(3) {
+  transform: translate3d(0, -8px, 0) rotate(-45deg);
+}
+
+#nav-content {
+  margin-top: 70px;
+  padding: 20px;
+  width: 90%;
+  max-width: 300px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: calc(100% - 70px);
+  background: #ececec;
+  pointer-events: auto;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  transform: translateX(-100%);
+  transition: transform 0.3s;
+  will-change: transform;
+  contain: paint;
+}
+
+#nav-content ul {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+#nav-content li a {
+  padding: 10px 5px;
+  display: block;
+  text-transform: uppercase;
+  transition: color 0.1s;
+}
+
+#nav-content li a:hover {
+  color: #BF7497;
+}
+
+#nav-content li:not(.small) + .small {
+  margin-top: auto;
+}
+
+.small {
+  display: flex;
+  align-self: center;
+}
+
+.small a {
+  font-size: 12px;
+  font-weight: 400;
+  color: #888;
+}
+
+.small a + a {
+  margin-left: 15px;
+}
+
+#nav-container:focus-within #nav-content {
+  transform: none;
+}
+
+main {
+  width: 100vw;
+  height: calc(100vh - 60px - 60px);
+  overflow: hidden;
+  display: flex;
+}
+main.index > article {
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+main.index > article#column-left {
+  width: 70%;
+  border-right: 1px solid #000000;
+}
+main.index > article#column-left > a.home-hyperlink {
+  display: block;
+  width: 100%;
+  height: 50%;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+main.index > article#column-left > a.home-hyperlink > div {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 2rem;
+  border-top: 1px solid #000000;
+}
+main.index > article#column-left > a.home-hyperlink:first-child > div {
+  border-top-width: 0;
+}
+main.index > article#column-left > a.home-hyperlink:hover {
+  cursor: pointer;
+}
+main.index > article#column-left > a.home-hyperlink:hover > div {
+  background-color: #000000;
+  color: #ffffff;
+}
+main.index > article#column-right {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+main.index > article#column-right > a.home-hyperlink {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+main.index > article#column-right > a.home-hyperlink > div {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 2rem;
+  border-top: 1px solid #000000;
+}
+main.index > article#column-right > a.home-hyperlink:hover {
+  cursor: pointer;
+}
+main.index > article#column-right > a.home-hyperlink:hover > div {
+  background-color: #000000;
+  color: #ffffff;
+}
+main.index > article#column-right > div#home-credit {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 2rem;
+  border-top: 1px solid #000000;
+}
+main.index > article#column-right > div#home-credit:last-child > div {
+  border-bottom-width: 0;
+}
+main.intro > article {
+  height: 100%;
+  padding: 2rem;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+main.intro > article#summary-sentences {
+  width: 70%;
+  border-right: 1px solid #000000;
+}
+main.intro > article#summary-sentences > footer#summary-readMore {
+  width: 100%;
+  height: 30px;
+  background-color: #000000;
+}
+main.intro > article#detail-articles {
+  width: 30%;
+}
+main.intro > article#fullText {
+  width: 100%;
+}
+main.intro > article#fullText > section {
+  border-left-width: 0.1rem;
+}
+main.intro > article#fullText > section h2 {
+  margin-left: -0.4em;
+  padding-left: calc( -1 * -0.4em / 2 );
+}
+main.intro > article#fullText > section article.fullText-article {
+  padding-left: calc(30% - 0.1rem);
+}
+main.intro > article#fullText > section article.fullText-article h3 {
+  margin-left: calc(-0.4em - 42.8571428571%);
+  padding: 0.2em 0 0.3em 0;
+}
+
+footer#page-footer {
+  width: 100vw;
+  height: 60px;
+  padding: 0.5em;
+  border-top: 1px solid #000000;
+}
+
+/* ---------- HEADER tag ---------- */
+/* ---------- NAV tag ---------- */
+/* ---------- MAIN tag ---------- */
+/* ---------- MAIN > ARTICLE#summary-sentences ---------- */
+article#summary-sentences.hide {
+  display: none;
+}
+article#summary-sentences section.covered-section {
+  display: none;
+}
+article#summary-sentences section h2.covered-sentence {
+  display: none;
+}
+article#summary-sentences section p span.covered-sentence {
+  display: none;
+}
+article#summary-sentences footer#summary-sentences-footer {
+  padding-bottom: 20%;
+  margin-top: 2.5rem;
+  text-align: right;
+}
+article#summary-sentences footer#summary-sentences-footer button#uncovering-button {
+  font-family: "open-arrow";
+  font-size: 1.5rem;
+  text-align: center;
+  width: 2.5em;
+  height: 2.5em;
+  padding: 0.18em 0 0 0;
+  border: 0.12em solid #000000;
+  border-radius: 100%;
+  background-color: transparent;
+}
+article#summary-sentences footer#summary-sentences-footer button#showing-fullText-button {
+  margin-top: 2.5rem;
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  text-align: center;
+  padding: 0.5em 0.7em;
+  border: 0.12em solid #000000; /* border-radius: 2em; */
+  color: #ffffff;
+  background-color: #000000;
+}
+article#summary-sentences footer#summary-sentences-footer button:hover {
+  cursor: pointer;
+}
+article#summary-sentences footer#summary-sentences-footer button:hover#uncovering-button {
+  color: #ffffff;
+  background-color: #000000;
+}
+article#summary-sentences footer#summary-sentences-footer button:hover#showing-fullText-button {
+  color: #000000;
+  background-color: #ffffff;
+}
+article#summary-sentences footer#summary-sentences-footer button.hide {
+  display: none;
+}
+
+/* ---------- MAIN > ARTICLE#detail-paragraphs ---------- */
+article#detail-articles.hide {
+  display: none;
+}
+article#detail-articles section article.detail-bySentence {
+  display: none;
+}
+article#detail-articles section article.detail-bySentence figure {
+  text-align: center;
+  width: 100%;
+  height: auto;
+  margin: 0 0 1em 0;
+}
+article#detail-articles section article.detail-bySentence figure img {
+  width: 100%;
+  height: auto;
+}
+article#detail-articles section article.detail-bySentence figure figcaption {
+  font-size: 0.6em;
+  padding: 0 0 1em;
+  opacity: 0.8;
+}
+article#detail-articles section article.detail-bySentence.shown-detail {
+  display: block;
+}
+
+/* ---------- MAIN > ARTICLE#fullText ---------- */
+article#fullText.hide {
+  display: none;
+}
+article#fullText section article.fullText-article h3 {
+  margin-left: -42.8571428571%;
+}
+article#fullText section article.fullText-article figure {
+  text-align: left;
+  width: 70%;
+  height: auto;
+  margin: 0.75em 0 1.8em 0;
+}
+article#fullText section article.fullText-article figure img {
+  width: 100%;
+  height: auto;
+}
+article#fullText section article.fullText-article figure figcaption {
+  font-size: 0.6em;
+  padding: 0 0 1em;
+  opacity: 0.8;
+}
+article#fullText footer#fullText-footer button#hiding-fullText-button {
+  position: fixed;
+  top: calc(60px + 2rem);
+  right: 2rem;
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  text-align: center;
+  padding: 0.5em 0.7em;
+  border: 0.12em solid #000000; /* border-radius: 2em; */
+  color: #ffffff;
+  background-color: #000000;
+}
+article#fullText footer#fullText-footer button#hiding-fullText-button:hover {
+  cursor: pointer;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+/* ---------- FOOTER tag ---------- */
+
+/*# sourceMappingURL=style-common.css.map */
