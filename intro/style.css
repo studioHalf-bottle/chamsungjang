@@ -1,0 +1,412 @@
+/* 
+	device width distinction - 
+	1024px ~ : Desktop layout
+	768px ~ 1023px : tablet layout
+	~ 767px, (min-aspect-ratio: 1/1) : mobile phone layout, widescreen aspect
+	360px ~ 767px, (max-aspect-ratio: 1/1) : mobile phone layout, portrait aspect
+	~ (320px) ~ 359px : legendary mobile phone layout
+
+	bootstrap 5 width distinction -
+	1400px ~ : XXLarge
+	1200px ~ 1399px : eXtraLarge
+	992px ~ 1199px : LarGe
+	768px ~ 991px : MeDium
+	576px ~ 767px : SMall
+	~ 575px : eXtraSmall
+*/
+/* basic constants */
+/* customising Bootrstrap theme */
+/*
+.row { margin-left: 0; margin-right: 0; }
+
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+	padding-left: 0; padding-right: 0; 
+}
+*/
+/* ---------- colour initialize settings ---------- */
+.colour-equalityGreen {
+  color: #2FC516;
+}
+
+.colour-background-equalityGreen {
+  background-color: #2FC516;
+}
+
+.colour-instagram {
+  color: #D91089;
+}
+
+.colour-tiktok {
+  color: #ffffff;
+}
+
+.colour-tiktok-sub {
+  color: #5eeff1;
+}
+
+.colour-facebook {
+  color: #1D5CBA;
+}
+
+.colour-twitter {
+  color: #4DD3FD;
+}
+
+.colour-youtube {
+  color: #FE1212;
+}
+
+.border-instagram {
+  border-color: #D91089;
+}
+
+.border-tiktok {
+  border-color: #5eeff1;
+}
+
+.border-facebook {
+  border-color: #1D5CBA;
+}
+
+.border-twitter {
+  border-color: #4DD3FD;
+}
+
+.border-youtube {
+  border-color: #FE1212;
+}
+
+/* scrollbar configuration - for webkit browsers */
+::-webkit-scrollbar {
+  width: 0;
+}
+
+div::-webkit-scrollbar {
+  width: 0;
+}
+
+div::-webkit-scrollbar-thumb {
+  background-color: rgba(193, 193, 193, 0.25);
+  border-radius: 6px;
+}
+div::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(193, 193, 193, 0.5);
+}
+
+/* scrollbar configuration - for Firefox */
+* {
+  scrollbar-width: none;
+}
+
+div {
+  scrollbar-color: rgba(193, 193, 193, 0.25) transparent;
+  scrollbar-width: thin;
+}
+
+/* ---------- basic layout ---------- */
+/* ---------- typo initializing ---------- */
+main.intro {
+  display: flex;
+}
+main.intro > section, main.intro article {
+  height: 100%;
+  padding: 2rem;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+main.intro > section#summary-sentences, main.intro article#summary-sentences {
+  width: 70%;
+  border-right: 1px solid #000000;
+}
+main.intro > section#summary-sentences > footer#summary-readMore, main.intro article#summary-sentences > footer#summary-readMore {
+  width: 100%;
+  height: 30px;
+  background-color: #000000;
+}
+main.intro > section#summary-sentences *, main.intro article#summary-sentences * {
+  font-weight: 800;
+  color: #000000; /*text-align: justify; word-break: normal;*/
+}
+main.intro > section#summary-sentences h1, main.intro article#summary-sentences h1 {
+  font-size: 2.25rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+main.intro > section#summary-sentences h2, main.intro article#summary-sentences h2 {
+  font-size: 1.75rem;
+  margin-top: 4em;
+}
+main.intro > section#summary-sentences p, main.intro article#summary-sentences p {
+  font-family: "Noto Serif KR", "Hahmlet", serif;
+  font-size: 1.5rem;
+}
+main.intro > section#summary-sentences p > span, main.intro article#summary-sentences p > span { /* margin-right: 0.5em; */ }
+main.intro > section#summary-sentences p > span:hover, main.intro article#summary-sentences p > span:hover {
+  cursor: pointer;
+}
+main.intro > section#summary-sentences p > span.focused-sentence:hover, main.intro article#summary-sentences p > span.focused-sentence:hover {
+  cursor: default;
+}
+main.intro > section#summary-sentences section#summary-section-1 p > span:hover, main.intro article#summary-sentences section#summary-section-1 p > span:hover {
+  color: #666666;
+}
+main.intro > section#summary-sentences section#summary-section-1 p > span.focused-sentence:hover, main.intro article#summary-sentences section#summary-section-1 p > span.focused-sentence:hover {
+  color: #ffffff;
+}
+main.intro > section#summary-sentences section#summary-section-2 p > span:hover, main.intro article#summary-sentences section#summary-section-2 p > span:hover {
+  color: #37c447;
+}
+main.intro > section#summary-sentences section#summary-section-2 p > span.focused-sentence:hover, main.intro article#summary-sentences section#summary-section-2 p > span.focused-sentence:hover {
+  color: #ffffff;
+}
+main.intro > section#summary-sentences section#summary-section-3 p > span:hover, main.intro article#summary-sentences section#summary-section-3 p > span:hover {
+  color: #7e37ba;
+}
+main.intro > section#summary-sentences section#summary-section-3 p > span.focused-sentence:hover, main.intro article#summary-sentences section#summary-section-3 p > span.focused-sentence:hover {
+  color: #ffffff;
+}
+main.intro > section#detail-paragraphs, main.intro article#detail-paragraphs {
+  width: 30%;
+}
+main.intro > section#detail-paragraphs *, main.intro article#detail-paragraphs * {
+  font-weight: 800;
+  color: #ffffff; /*letter-spacing: calc(-5em/1000);*/
+}
+main.intro > section#detail-paragraphs p, main.intro article#detail-paragraphs p {
+  font-size: 1rem;
+}
+main.intro > section#fullText, main.intro article#fullText {
+  width: 100%;
+}
+main.intro > section#fullText > section.fullText-bigSection, main.intro article#fullText > section.fullText-bigSection {
+  border-left-width: 0.1rem;
+}
+main.intro > section#fullText > section.fullText-bigSection h2, main.intro article#fullText > section.fullText-bigSection h2 {
+  margin-left: -0.4em;
+  padding-left: calc( -1 * -0.4em / 2 );
+}
+main.intro > section#fullText > section.fullText-bigSection section.fullText-smallSection, main.intro article#fullText > section.fullText-bigSection section.fullText-smallSection {
+  padding-left: calc(30% - 0.1rem);
+}
+main.intro > section#fullText > section.fullText-bigSection section.fullText-smallSection h3, main.intro article#fullText > section.fullText-bigSection section.fullText-smallSection h3 {
+  margin-left: calc(-0.4em - 42.8571428571%);
+  padding: 0.2em 0 0.3em 0;
+}
+main.intro > section#fullText h1, main.intro > section#fullText h2, main.intro > section#fullText h3, main.intro article#fullText h1, main.intro article#fullText h2, main.intro article#fullText h3 {
+  font-weight: 800; /*text-align: justify; word-break: normal;*/
+}
+main.intro > section#fullText h1, main.intro article#fullText h1 {
+  font-size: 2.25rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #000000;
+}
+main.intro > section#fullText h2, main.intro article#fullText h2 {
+  font-size: 1.75rem;
+  margin-top: 4em;
+  color: #ffffff;
+}
+main.intro > section#fullText h3, main.intro article#fullText h3 {
+  font-family: "Noto Serif KR", "Hahmlet", serif;
+  font-size: 1.5rem;
+  margin-top: 1em;
+  margin-bottom: 0;
+  color: #000000;
+  background-color: #ffffff;
+}
+main.intro > section#fullText p, main.intro article#fullText p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+main.intro > section#fullText section#fullText-section-1, main.intro article#fullText section#fullText-section-1 {
+  border-left-style: solid;
+  border-left-color: #666666;
+}
+main.intro > section#fullText section#fullText-section-1 > h2, main.intro article#fullText section#fullText-section-1 > h2 {
+  background-color: #666666;
+}
+main.intro > section#fullText section#fullText-section-2, main.intro article#fullText section#fullText-section-2 {
+  border-left-style: solid;
+  border-left-color: #37c447;
+}
+main.intro > section#fullText section#fullText-section-2 > h2, main.intro article#fullText section#fullText-section-2 > h2 {
+  background-color: #37c447;
+}
+main.intro > section#fullText section#fullText-section-3, main.intro article#fullText section#fullText-section-3 {
+  border-left-style: solid;
+  border-left-color: #7e37ba;
+}
+main.intro > section#fullText section#fullText-section-3 > h2, main.intro article#fullText section#fullText-section-3 > h2 {
+  background-color: #7e37ba;
+}
+main.intro.class-part-1 section#summary-sentences p > span.focused-sentence {
+  background-color: #666666;
+  color: #ffffff;
+}
+main.intro.class-part-1 section#detail-paragraphs {
+  background-color: #666666;
+}
+main.intro.class-part-2 section#summary-sentences p > span.focused-sentence {
+  background-color: #37c447;
+  color: #ffffff;
+}
+main.intro.class-part-2 section#detail-paragraphs {
+  background-color: #37c447;
+}
+main.intro.class-part-3 section#summary-sentences p > span.focused-sentence {
+  background-color: #7e37ba;
+  color: #ffffff;
+}
+main.intro.class-part-3 section#detail-paragraphs {
+  background-color: #7e37ba;
+}
+main.intro.class-empty-detail.class-part-1 section#detail-paragraphs, main.intro.class-empty-detail.class-part-2 section#detail-paragraphs, main.intro.class-empty-detail.class-part-3 section#detail-paragraphs {
+  background-color: #ffffff;
+}
+
+/* ---------- HEADER tag ---------- */
+/* ---------- NAV tag ---------- */
+/* ---------- MAIN tag ---------- */
+/* ---------- MAIN > SECTION#summary-sentences ---------- */
+section#summary-sentences.hide {
+  display: none;
+}
+section#summary-sentences > section.covered-section {
+  display: none;
+}
+section#summary-sentences > section h2.covered-sentence {
+  display: none;
+}
+section#summary-sentences > section p span.covered-sentence {
+  display: none;
+}
+section#summary-sentences footer#summary-sentences-footer {
+  padding-bottom: 10%;
+  margin-top: 10%;
+  text-align: right;
+}
+section#summary-sentences footer#summary-sentences-footer button#uncovering-button {
+  font-family: "open-arrow";
+  font-size: 1.5rem;
+  text-align: center;
+  width: 2.5em;
+  height: 2.5em;
+  padding: 0.18em 0 0 0;
+  border: 0.12em solid #000000;
+  border-radius: 100%;
+  background-color: transparent;
+}
+section#summary-sentences footer#summary-sentences-footer button#showing-fullText-button {
+  margin-top: 2.5rem;
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  text-align: center;
+  padding: 0.5em 0.7em;
+  border: 0.12em solid #000000; /* border-radius: 2em; */
+  color: #ffffff;
+  background-color: #000000;
+}
+section#summary-sentences footer#summary-sentences-footer button:hover {
+  cursor: pointer;
+}
+section#summary-sentences footer#summary-sentences-footer button:hover#uncovering-button {
+  color: #ffffff;
+  background-color: #000000;
+}
+section#summary-sentences footer#summary-sentences-footer button:hover#showing-fullText-button {
+  color: #000000;
+  background-color: #ffffff;
+}
+section#summary-sentences footer#summary-sentences-footer button.hide {
+  display: none;
+}
+
+/* ---------- MAIN > SECTION#detail-paragraphs ---------- */
+section#detail-paragraphs.hide {
+  display: none;
+}
+section#detail-paragraphs > section.detail-bigSection section.detail-bySentence {
+  display: none;
+}
+section#detail-paragraphs > section.detail-bigSection section.detail-bySentence figure {
+  text-align: center;
+  width: 100%;
+  height: auto;
+  margin: 0 0 1em 0;
+}
+section#detail-paragraphs > section.detail-bigSection section.detail-bySentence figure img {
+  width: 100%;
+  height: auto;
+}
+section#detail-paragraphs > section.detail-bigSection section.detail-bySentence figure figcaption {
+  font-size: 0.6em;
+  padding: 0 0 1em;
+  opacity: 0.8;
+}
+section#detail-paragraphs > section.detail-bigSection section.detail-bySentence.shown-detail {
+  display: block;
+}
+
+/* ---------- MAIN > ARTICLE#fullText ---------- */
+article#fullText.hide {
+  display: none;
+}
+article#fullText > section.fullText-bigSection > section.fullText-smallSection h3 {
+  margin-left: -42.8571428571%;
+}
+article#fullText > section.fullText-bigSection > section.fullText-smallSection figure {
+  text-align: left;
+  width: 70%;
+  height: auto;
+  margin: 0.75em 0 1.8em 0;
+}
+article#fullText > section.fullText-bigSection > section.fullText-smallSection figure img {
+  width: 100%;
+  height: auto;
+}
+article#fullText > section.fullText-bigSection > section.fullText-smallSection figure figcaption {
+  font-size: 0.6em;
+  padding: 0 0 1em;
+  opacity: 0.8;
+}
+article#fullText footer#fullText-footer button#hiding-fullText-button {
+  position: fixed;
+  top: calc(60px + 2rem);
+  right: 2rem;
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  text-align: center;
+  padding: 0.5em 0.7em;
+  border: 0.12em solid #000000; /* border-radius: 2em; */
+  color: #ffffff;
+  background-color: #000000;
+}
+article#fullText footer#fullText-footer button#hiding-fullText-button:hover {
+  cursor: pointer;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+/* ---------- FOOTER tag ---------- */
+/* ---------- mobile environment ---------- */
+@media (max-width: 992.01px) {
+  main.intro {
+    flex-direction: column-reverse;
+  }
+  main.intro section#summary-sentences, main.intro section#detail-paragraphs {
+    height: 50%;
+    width: 100%;
+  }
+  main.intro section#summary-sentences {
+    border-right: 0px;
+    border-top: 1px solid #000000;
+  }
+  main.intro section#detail-paragraphs p {
+    text-align: justify;
+    word-break: break-word;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

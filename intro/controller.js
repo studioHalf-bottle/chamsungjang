@@ -1,7 +1,7 @@
 var screen_main = document.getElementsByTagName("main")[0];
 var screen_summary = document.getElementById("summary-sentences");
 var screen_summary_footer = document.getElementById("summary-sentences-footer");
-var screen_detail = document.getElementById("detail-articles");
+var screen_detail = document.getElementById("detail-paragraphs");
 var screen_fullText = document.getElementById("fullText");
 
 var uncovering_button = document.getElementById("uncovering-button");
@@ -11,7 +11,7 @@ var hiding_fullText_button = document.getElementById("hiding-fullText-button");
 
 /* ------- main UI/UX functions ------ */
 
-// uncover the next summary sentence & detail paragraph right after clicking #uncovering-button.
+// uncover the next summary sentence & detail paragraph just after clicking the #uncovering-button.
 function letsUncover() {
 	var prevSummary = document.getElementsByClassName("focused-sentence")[0];
 	var nextSummary = document.getElementsByClassName("covered-sentence")[0];
@@ -44,7 +44,7 @@ function letsUncover() {
 	}
 }
 
-// show the detail paragraph of the clicked summary sentence.
+// show the detail paragraph of the summary sentence which was clicked before.
 function letsRewind( _nextSummary ) {
 	var prevSummary = document.getElementsByClassName("focused-sentence")[0];
 	var nextSummary = _nextSummary;
@@ -83,19 +83,19 @@ function letsHideFulltext() {
 
 
 // Get an '(uncovered) summary sentence' element as an input. 
-// ("article#summary-sentences > section > h2, article#summary-sentences > section > p > span")? 
-// ("article#summary-sentences > section > p > span")? 
-// Return a 'detail article' that matches with the input element. ("article#detail-articles > section > article.detail-bySentence")
+// ("section#summary-sentences > section > h2, section#summary-sentences > section > p > span")? 
+// ("section#summary-sentences > section > p > span")? 
+// Return a 'detail section' that matches with the input element. ("section#detail-articles > section.detail-bigSection > article.detail-bySentence")
 function match_detailArticle( _summaryEle ) {
 	
-	var wholeSummary = $("article#summary-sentences > section > p > span"); 
-	var wholeDetail = $("article#detail-articles > section > article.detail-bySentence");
+	var wholeSummary = $("section#summary-sentences > section > p > span"); 
+	var wholeDetail = $("section#detail-paragraphs > section.detail-bigSection > section.detail-bySentence");
 	var index = wholeSummary.index( _summaryEle );
 	return wholeDetail[index];
 }
 
 function match_PARTnumber( _summaryEle ) {
-	var wholeSummarySection = $("article#summary-sentences > section"); 
+	var wholeSummarySection = $("section#summary-sentences > section"); 
 	return wholeSummarySection.index( _summaryEle.parentElement.parentElement ) + 1;
 }
 
@@ -103,7 +103,7 @@ function match_PARTnumber( _summaryEle ) {
 
 /* ------- DOMContentLoaded ------ */
 
-// Handler when the DOM is fully loaded, do this.
+// Handler when the DOM is fully loaded. Add the 'click' eventListener for executing letsRewind() fuction.
 document.addEventListener("DOMContentLoaded", function(){
 	document.getElementsByClassName("focused-sentence")[0].addEventListener('click', function(event) {
 		var targetElement = event.target;
