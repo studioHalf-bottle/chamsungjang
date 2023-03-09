@@ -193,7 +193,11 @@ main.index {
 			> div#home-credit {
 				width: 100%; height: auto; margin: 0; padding: $article-padding; border-top: 1px solid $colour-black;
 				background-color: $colour-backgroundGrey; 
-				a { background-color: $colour-black; color: $colour-backgroundGrey; text-decoration: none; &:visited, &:active { color: $colour-backgroundGrey; } }
+				a { 
+					background-color: $colour-black; color: $colour-backgroundGrey; text-decoration: none; 
+					&:visited, &:active { color: $colour-backgroundGrey; } 
+					&:hover { background-color: $colour-white; color: $colour-black; }
+				}
 			}
 		}
 	}

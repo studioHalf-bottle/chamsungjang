@@ -44,6 +44,39 @@ function letsUncover() {
 	}
 }
 
+// show the detail paragraph of the sentence before the current one.
+function letsGoBack() {
+	var prevSummary = document.getElementsByClassName("focused-sentence")[0];
+	var nextSummary = document.getElementsByClassName("covered-sentence")[0];
+	var prevDetail = document.getElementsByClassName("shown-detail")[0];
+	var nextDetail = match_detailArticle( nextSummary );
+	var nextPARTnumber = match_PARTnumber( nextSummary );
+	var nextPARTclass = "class-part-" + nextPARTnumber;
+	
+	prevSummary.classList.remove('focused-sentence');
+	nextSummary.classList.remove('covered-sentence');
+	nextSummary.classList.add('focused-sentence');
+	nextSummary.parentElement.parentElement.classList.remove('covered-section');
+	nextSummary.addEventListener('click', function(event) {
+		var targetElement = event.target;
+		letsRewind( targetElement ); 
+	});
+	screen_summary_footer.scrollIntoView();
+	
+	prevDetail.classList.remove('shown-detail');
+	nextDetail.classList.add('shown-detail');
+	screen_detail.scrollTo(0,0);
+	
+	screen_main.classList.remove('class-part-1', 'class-part-2', 'class-part-3', 'class-empty-detail');
+	screen_main.classList.add(nextPARTclass);
+	if (nextDetail.classList.contains('empty-detail')) screen_main.classList.add('class-empty-detail');
+	
+	if (nextSummary.classList.contains('the-last-sentence')) {
+		uncovering_button.classList.add('hide');
+		showing_fullText_button.classList.remove('hide');
+	}
+}
+
 // show the detail paragraph of the clicked summary sentence.
 function letsRewind( _nextSummary ) {
 	var prevSummary = document.getElementsByClassName("focused-sentence")[0];

@@ -82,7 +82,7 @@
 	]}, 
 	
 	{ "category": "data",
-	 	"category_KR": "데이터",
+	 	"category_KR": "데이터 Data",
 		"category_class": "posting-category-data",
 	 
 		"post_list": [
@@ -109,7 +109,7 @@
 				"hyperlink_02": "https://docs.google.com/spreadsheets/d/1PNnqmaYg_UHYx_zFYCwAlnnq12CMkbMZZQLzeRr4Nuw/edit?usp=sharing", 
 				"hyperlink_02_desc": "Check the dataset (Google Spreadsheet)", 
 				"html_p_list": [
-					"LAB2050 have researched and collected GPI values from 1997 to 2021 into this dataset file. It includes both real and nominal(in 2015 prices) value of GPI, classified by each detail indicators."
+					"LAB2050 have researched GPI values from 1997 to 2021 and collected them into this dataset file. It includes both real and nominal(in 2015 prices) value of GPI, classified by each detail indicators."
 				], 
 				"html_p_caption": "While you use this dataset for your work, please mention the reference(GPI Research by LAB2050) and notice to us via email <a href='mailto:hello@lab2050.org'>hello@lab2050.org</a>.",
 				"html_image_video": null

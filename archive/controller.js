@@ -109,10 +109,12 @@ function build_detailArticles_right() {
 		})
 		
 		if (_postEle.html_p_caption) {
-			p_caption_domElement = document.createElement("p"); 
-			domDoc_fromParser = domParser.parseFromString(`${_postEle.html_p_caption}`, "text/html");
-			p_caption_domElement.classList.add( "posting-caption" );
-			p_caption_domElement.appendChild( domDoc_fromParser.body.firstChild );
+//			p_caption_domElement = document.createElement("p"); 
+//			domDoc_fromParser = domParser.parseFromString(`${_postEle.html_p_caption}`, "text/html");
+//			p_caption_domElement.classList.add( "posting-caption" );
+//			p_caption_domElement.appendChild( domDoc_fromParser.body.firstChild );
+			p_caption_domElement = domParser.parseFromString(`<p class="posting-caption">${_postEle.html_p_caption}</p>`, "text/html")
+																			.body.firstChild;
 		}
 		
 		if (_postEle.html_image_video) {
@@ -136,9 +138,6 @@ function build_detailArticles_right() {
 		article_domElement.append( metadata_domElement, title_domElement );
 		if (_postEle.hyperlink_01) article_domElement.appendChild( nav01_domElement );
 		if (_postEle.hyperlink_02) article_domElement.appendChild( nav02_domElement );
-//		p_domElement_array.forEach( function( _pDomEle ) { 
-//			article_domElement.appendChild( _pDomEle ); 
-//		});
 		article_domElement.append( ...p_domElement_array ); 
 		if (_postEle.html_p_caption) article_domElement.appendChild( p_caption_domElement );
 		if (_postEle.html_image_video) article_domElement.appendChild( image_video_domElement );
