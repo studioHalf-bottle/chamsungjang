@@ -194,13 +194,14 @@ table {
 		border-top: 1em $colour-white solid;
 		
 		&.GPI { background-color: $colour-GPI; }
-		&.GDP { background-color: $colour-GDP; }
+		&.GDP { background-color: $colour-GDP; border-top-width: 0; }
 		&.Ec { background-color: $colour-Ec; }
 		&.WL { background-color: $colour-WL; }
 		&.HC { background-color: $colour-HC; }
 		&.DI { background-color: $colour-DI; }
 		&.EN { background-color: $colour-EN; }
-		td { font-weight: 700; }
+		td:nth-child(1) { font-weight: 700; }
+		td:nth-child(2) { font-weight: 700; font-size: 0.6rem; padding-top: 2em; }
 		td:nth-child(3) { font-weight: 400; font-size: 0.6rem; }
 	}
 	
@@ -240,7 +241,7 @@ table {
 	table {
 		tbody td:nth-child(2) { padding: 0.35rem 0.5rem; }
 		font-size: 1rem; 
-		tbody tr.category01 td:nth-child(3) { font-size: 0.8rem; } 
+		tbody tr.category01 { td:nth-child(2), td:nth-child(3) { font-size: 0.8rem; } }
 		tbody tr.category02 { td:nth-child(2), td:nth-child(3), td:nth-child(4) { font-size: 0.8rem; } }
 		thead th:nth-child(2) { width: auto; }
 	}

@@ -1,0 +1,1095 @@
+[
+	{ "category": "paper",
+	 	"category_KR": "보고서",
+		"category_class": "posting-category-paper",
+	 
+		"post_list": [
+			{
+				"publishingDate": "2020-11-24", 
+				"publisher": "LAB2050",
+				"title": "진정한 경제는 시장, 그리고 GDP 밖에 있다", 
+				"hyperlink_01": "https://medium.com/lab2050/insight20500600-f1a0ae9d8e29", 
+				"hyperlink_01_desc": "블로그 링크 (Medium)", 
+				"hyperlink_02": "https://drive.google.com/file/d/1K_V0CO4SN9duhkrO-qJifrjEy66OPjSH/view", 
+				"hyperlink_02_desc": "보고서 문서 (PDF)", 
+				"html_p_list": [
+					"GDP는 대다수 국가들이 발전의 기준으로 삼고 이를 평가하는 잣대로 활용되고 있으며, 우리 사회의 대표적인 가치 측정 기준이 되어왔습니다. 하지만 GDP는 현재의 가치 창출 활동에 비해 미래 세대의 가치를 충분히 반영하지 못하는 점, 가격과 시장 가치만을 중시해 사회적 가치를 충분히 포괄하지 못하는 점, 투입 중심의 시각으로 인해 개인·사회·환경에 미친 성과를 충분히 반영하지 못하는 점에서 대표적인 발전 지표로서의 한계를 갖고 있습니다.", 
+					"디지털 전환, 기후위기, 코로나19 등 변화된 환경에 맞는 우리 사회 새로운 발전 기준과 이를 측정할 지표가 필요합니다."
+				], 
+				"html_p_caption": "본 보고서는 2020년 8월부터 LAB2050과 한마음평화연구재단이 협력사업으로 수행 중인 ‘국민 경제의 포괄적 가치 측정 연구’의 일부를 따로 펴낸 것입니다.",
+				"html_image_video": "https://cdn.imweb.me/thumbnail/20210122/75783aac4fb2b.jpg"
+			}, 
+			{
+				"publishingDate": "2021-06-09", 
+				"publisher": "LAB2050",
+				"title": "대안GDP 어떻게 만들 것인가?: 도시·국가·국제기구의 사례 분석", 
+				"hyperlink_01": "https://medium.com/lab2050/insight205008-7a268ffc469b", 
+				"hyperlink_01_desc": "블로그 링크 (Medium)", 
+				"hyperlink_02": "https://drive.google.com/file/d/152KXZMsALgTI59XZAgFmRkWa-IzTlpS4/view", 
+				"hyperlink_02_desc": "보고서 문서 (PDF)", 
+				"html_p_list": [
+					"한 국가의 전반적인 후생 수준을 측정하는 지표로서 GDP가 가지는 문제점은 많은 연구에서 지적되어 왔습니다. GDP의 한계를 극복하기 위해 전 세계 주요 국가·도시 및 국제기구의 다양한 노력이 있었습니다. 본 보고서는 이 사례들을 포괄적으로 검토해 새로운 대안 지표 개발을 위한 중요한 시사점을 제공합니다.",
+					"새로운 지표는 경제와 사회 분야의 삶의 질에 대한 단편적인 측정을 뛰어 넘어 미래의 지속가능성을 포괄해야 하며, 국민 후생의 객관적인 측면과 주관적인 측면을 동시에 고려해야 합니다. 또한 개발 방법에 있어 대시보드 방식이나 지표나열 방식 보다는 단일지수 방식, 나아가 화폐가치 전환을 통한 접근을 필요로 합니다. <br>이를 기반으로 GDP가 포괄하지 못하는 우리 사회의 중요한 가치를 하나의 체계로 통합하고, 이를 명료하게 제시해 우리 사회가 새롭게 나아갈 방향을 나타낼 수 있는 새로운 지표가 개발되어야 합니다."
+				], 
+				"html_p_caption": "본 보고서는 2020년 8월부터 LAB2050과 한마음평화연구재단이 협력사업으로 수행 중인 ‘국민 경제의 포괄적 가치 측정 연구’의 일부를 따로 펴낸 것입니다.",
+				"html_image_video": "https://cdn.imweb.me/thumbnail/20210609/d4c4f26925eec.jpg"
+			}, 
+			{
+				"publishingDate": "2021-09-13", 
+				"publisher": "LAB2050",
+				"title": "참성장전략: 공멸이 아닌 공존의 시대로", 
+				"hyperlink_01": "https://medium.com/lab2050/solution205006-95350ee24415", 
+				"hyperlink_01_desc": "블로그 링크 (Medium)", 
+				"hyperlink_02": "https://drive.google.com/file/d/1OtBaC2pB297y3bJVThLBBOgZQcrleWAe/view", 
+				"hyperlink_02_desc": "보고서 문서 (PDF)", 
+				"html_p_list": [
+					"인류는 생존의 시대에서 성장의 시대를 지나 공존의 시대와 공멸의 시대라는 커다란 갈림길에 서 있습니다. 기후위기와 불평등, 디지털 전환과 인구 구조 변동 등 한국 사회도 전환점에 놓여있기는 마찬가지입니다. <br>이 전환의 시기가 공존의 시대 이어지기 위해서는 과거 성장 시대의 근시적 패러다임을 넘어설 새로운 사회경제적 패러다임을 찾아야 합니다. 오늘만의 성장에서 내일의 성장으로, 누군가의 성장에서 모두의 성장으로, 경제만의 성장에서 사회환경적 가치의 성장으로 ‘성장’을 확장하는 ‘참성장전략’이 필요합니다.",
+					"보고서는 전환의 시대 참성장이 필요한 이유와 참성장전략의 비전과 핵심 요소, 8가지 솔루션을 함께 제안합니다. <br>함께 읽고 우리 사회의 참성장에 대한 생각을 나눠주시기 바랍니다."
+				], 
+				"html_p_caption": "본 보고서는 2020년 8월부터 LAB2050과 한마음평화연구재단이 협력사업으로 수행 중인 ‘국민 경제의 포괄적 가치 측정 연구’의 일부를 따로 펴낸 것입니다.",
+				"html_image_video": "https://cdn.imweb.me/thumbnail/20210915/2cf6aadabaea8.png"
+			}, 
+			{
+				"publishingDate": "2022-02-17", 
+				"publisher": "LAB2050",
+				"title": "참성장지표 개발 연구", 
+				"hyperlink_01": "https://medium.com/lab2050/gpi2050-9ac93b8734be", 
+				"hyperlink_01_desc": "블로그 링크 (Medium)", 
+				"hyperlink_02": "https://drive.google.com/file/d/1ZaAT-ovtBCMKkptonkWF5U4ZnlqTNpTo/view", 
+				"hyperlink_02_desc": "보고서 문서 (PDF)", 
+				"html_p_list": [
+					"LAB2050은 이번 참성장지표 개발 연구가 추후 한국 사회 내 삶의 질 향상을 포괄적으로 견인할 수 있는 사회 발전 지표 도입으로 나아가는 주요한 전기가 되기를 기대합니다. 이와 같은 사회 발전 지표의 도입을 위해서는 지표의 개발 및 활용과 더불어, 관련 기초통계의 확충과 추가적인 정책 연구가 이뤄질 필요가 있습니다.", 
+					"보고서를 살펴봐 주시고 우리 사회가 참성장의 길로 나아가는데 필요한 생각을 나눠 주시기를 바랍니다."
+				], 
+				"html_p_caption": "본 보고서는 2020년 8월부터 LAB2050과 한마음평화연구재단이 협력사업으로 수행 중인 ‘국민 경제의 포괄적 가치 측정 연구’의 일부를 따로 펴낸 것입니다.",
+				"html_image_video": "https://cdn.imweb.me/thumbnail/20220217/8062b0f6200e6.png"
+			}, 
+			{
+				"publishingDate": "2022-09-02", 
+				"publisher": "LAB2050",
+				"title": "참성장지표로 보는 21세기 한국 사회: 코로나 전후의 변화와 전망", 
+				"hyperlink_01": "https://medium.com/lab2050/gpikr2021-a69aa32e18d", 
+				"hyperlink_01_desc": "블로그 링크 (Medium)", 
+				"hyperlink_02": "https://drive.google.com/file/d/16QmL9-Qh8ao3UDuIs_pWyogVKSDQYObm/view", 
+				"hyperlink_02_desc": "보고서 문서 (PDF)", 
+				"html_p_list": [
+					"참성장지표는 시장 생산에 집중된 지표인 GDP가 국가 발전 지표로서 갖는 한계와 그간 논의된 대안지표를 검토해 국제적으로 연구, 활용되고 있는 GPI(Genuine Progress Indicator)에 기초해 한국 사회의 특수성과 디지털화 등 환경 변화를 반영해 개발된 지표입니다.", 
+					"본 보고서는 1997년부터 2021년까지의 참성장지표 측정 결과를 토대로 한국 사회의 변화 양상을 살펴봅니다. 또한 2020년 발생한 코로나19가 각 영역별로 미친 영향과 앞으로의 과제를 담고 있습니다. <br>함께 읽고 우리 사회의 참성장에 대한 생각을 나눠주시기 바랍니다."
+				], 
+				"html_p_caption": "* 본 보고서는 2022년 6월까지 LAB2050과 재단법인 한마음재단 (구) 한마음평화연구재단)이 협력사업으로 수행 중인 ‘국민 경제의 포괄적 가치 측정 연구’의 일부를 따로 펴낸 것입니다. <br>* 본 보고서는 〈최영준 · 손종칠 · 윤자영 · 반가운 · 유정민 · 이지웅 · 윤선우 · 고동현(2022), ‘참성장지표 개발 연구’, LAB2050, 솔루션2050–07〉의 참성장지표 측정 방법론을 토대로 작성되었습니다. 지표 측정 과정과 방법론, 관련 문헌 등은 해당 보고서를 참고하여 주시기 바랍니다. <br>* 본 보고서에서 측정한 화폐가치화된 값은 별도의 표기가 없는한 GDP 디플레이터를 기반으로 2015년 가격(실질)으로 환산한 것 입니다.",
+				"html_image_video": "https://cdn.imweb.me/thumbnail/20220905/1edafff7bf590.jpg"
+			}
+	]}, 
+	
+	{ "category": "data",
+	 	"category_KR": "데이터",
+		"category_class": "posting-category-data",
+	 
+		"post_list": [
+			{
+				"publishingDate": "2023-03-08T00:00:00Z", 
+				"publisher": "LAB2050",
+				"title": "1997~2021년 참성장지표 세부지표 데이터 (한국어)", 
+				"hyperlink_01": "../@asset/rawdata/GPI_KOREA_DATASET_202303_KR.xlsx", 
+				"hyperlink_01_desc": "데이터 파일 다운로드 (EXCEL)", 
+				"hyperlink_02": "https://docs.google.com/spreadsheets/d/17s_HmlxEzQFAYMl6QyvQ7la5j3T1KRiVMjiO94D4YHU/edit?usp=sharing", 
+				"hyperlink_02_desc": "데이터 확인 (Google Spreadsheet)", 
+				"html_p_list": [
+					"참성장지표 연구를 통해 산출한 연도별(1997~2021) 세부지표 금액 데이터를 모았습니다. 명목 참성장지표와 실질 참성장지표(2015년 기준)로 나누어 나열했습니다."
+				], 
+				"html_p_caption": "이 데이터를 연구, 활동에 활용할 때에는 출처(LAB2050의 참성장지표 연구)를 밝혀주시고, <a href='mailto:hello@lab2050.org'>hello@lab2050.org</a>를 통해 LAB2050에게도 알려주시기 바랍니다.",
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2023-03-08T12:00:00Z", 
+				"publisher": "LAB2050",
+				"title": "1997-2021 GPI Dataset (English)", 
+				"hyperlink_01": "../@asset/rawdata/GPI_KOREA_DATASET_202303_EN.xlsx", 
+				"hyperlink_01_desc": "Download the dataset file (EXCEL)", 
+				"hyperlink_02": "https://docs.google.com/spreadsheets/d/1PNnqmaYg_UHYx_zFYCwAlnnq12CMkbMZZQLzeRr4Nuw/edit?usp=sharing", 
+				"hyperlink_02_desc": "Check the dataset (Google Spreadsheet)", 
+				"html_p_list": [
+					"LAB2050 have researched and collected GPI values from 1997 to 2021 into this dataset file. It includes both real and nominal(in 2015 prices) value of GPI, classified by each detail indicators."
+				], 
+				"html_p_caption": "While you use this dataset for your work, please mention the reference(GPI Research by LAB2050) and notice to us via email <a href='mailto:hello@lab2050.org'>hello@lab2050.org</a>.",
+				"html_image_video": null
+			}
+	]}, 
+	
+	{ "category": "blog",
+	 	"category_KR": "소식",
+		"category_class": "posting-category-blog",
+	 
+		"post_list": [
+			{
+				"publishingDate": "2020-12-17", 
+				"publisher": "LAB2050",
+				"title": "〈참성장포럼 세션1〉 진정한 경제는 시장, 그리고 GDP 밖에 있다", 
+				"hyperlink_01": "https://medium.com/lab2050/idea205036-b5689401590b", 
+				"hyperlink_01_desc": "블로그 링크 (Medium)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"오늘날 우리 경제 전체가 나아갈 방향은 무엇일까? 여전히 시장에서 거래되는 재화와 서비스의 양을 무한정 늘리는 ‘성장’일까? 아니면 사회에 필요한 재화와 서비스의 양과 질을 높이고, 사회 구성원들 간의 자원의 공평한 분배와 신뢰를 구축하고, 미래 세대에 필요한 환경 자원을 보전하고 기후위기에 대응하는 것일까? <br>우리 사회가 마주한 여러 사회적 갈등과 위기를 극복하기 위해서는 새로운 시각에서 경제를 다시 정의하고, 경제활동이 만들어낸 가치를 포괄적으로 측정하고 평가하는 기준을 다시 세워야 한다.", 
+					"이 기준은 이미 전세계적으로 논의되고 있는 UN의 지속가능발전목표, OECD의 ‘Better Life Index’, 통계청의 ‘삶의 질 지수’ 등 기존의 지표가 될 수도 있고, 새로운 지표가 될 수도 있다. 무엇보다 중요한 것은 오랜 기간 경제를 규정하고 사회의 지향점 역할을 해왔던 GDP를 우리 사회가 현재 그리고 미래에 추구해야할 가치에 맞는 새로운 지표로 대신하는 것이다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": "https://miro.medium.com/v2/0*OP5tHRkAGATNBWBO"
+			}, 
+			{
+				"publishingDate": "2021-05-31", 
+				"publisher": "LAB2050",
+				"title": "한국, 온실가스 발생에 따른 경제적 피해 연간 38조 원", 
+				"hyperlink_01": "https://www.lab2050.org/37/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=6815395&t=board", 
+				"hyperlink_01_desc": "보도자료 (LAB2050 홈페이지)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"- 민간 싱크탱크 LAB2050 연구팀이 미국 바이든 행정부의 새로운 기준을 참고해 온실가스 배출이 가져올 기후변화 비용을 추산한 결과, 연간 약 38조 원의 경제적 비용이 발생 <br>- 온실가스 배출의 경제적 비용은 1990년 5조 원에서 2018년 약 38조 원까지, 7배 이상 늘어나 <br>- “온실가스 배출의 이익은 소수에게 돌아가고, 비용은 사회 전체와 미래세대가 떠안는 구조 전환해야”"
+				], 
+				"html_p_caption": null,
+				"html_image_video": ""
+			}, 
+			{
+				"publishingDate": "2021-06-07", 
+				"publisher": "LAB2050",
+				"title": "한국인 1인당 인적자본 가치는 OECD 2위", 
+				"hyperlink_01": "https://www.lab2050.org/37/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=6867426&t=board", 
+				"hyperlink_01_desc": "보도자료 (LAB2050 홈페이지)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"- LAB2050 연구팀이 1997년부터 2019년까지의 인적자본의 사회적 가치를 측정하여 화폐가치로 환산한 결과, 한국인 1인당 5,425달러로 나타남 <br>- 한국의 국민 1인당 인적자본의 사회적 가치는 지난 20여 년간 3배 가까이 증가했으며, 현재 OECD 국가들 중 2번째로 높게 나타남"
+				], 
+				"html_p_caption": null,
+				"html_image_video": ""
+			}, 
+			{
+				"publishingDate": "2021-06-11", 
+				"publisher": "LAB2050",
+				"title": "‘참성장지표’ 소개와 검증을 위한 국제 세미나 개최", 
+				"hyperlink_01": "https://www.lab2050.org/37/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=6900218&t=board", 
+				"hyperlink_01_desc": "보도자료 (LAB2050 홈페이지)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"- LAB2050연구팀이 개발한 새로운 사회⋅경제 발전 측정 지표인 ‘참성장지표’ <br>- 인간과 자연, 공동체, 디지털의 가치를 포괄하는 새로운 경제시스템의 필요성을 논의하고, ‘참성장지표’의 국제적인 활용 가능성을 모색"
+				], 
+				"html_p_caption": null,
+				"html_image_video": "https://cdn.imweb.me/upload/S201802135a82811f6de02/f689a869a53a2.png"
+			}, 
+			{
+				"publishingDate": "2021-06-14", 
+				"publisher": "LAB2050",
+				"title": "무료 디지털 서비스, 얼마의 가치가 있을까?", 
+				"hyperlink_01": "https://www.lab2050.org/37/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=7008495&t=board", 
+				"hyperlink_01_desc": "보도자료 (LAB2050 홈페이지)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"- LAB2050 연구팀이 카카오톡, 네이버 검색 등 무료로 사용하고 있는 디지털 서비스에 대해 사람들은 얼마의 가치를 느끼는지 웹실험을 통해 조사한 결과를 발표", 
+					"- 무료 디지털 서비스에 대해 월 19,000원 정도는 사용료를 지불할 의사가 있다고 응답 <br>- 무료 디지털 서비스들을 전혀 사용하지 못하는 대신 돈으로 보상을 받는다고 가정하였을 때는 월 65만 원은 받아야 서비스를 포기할 의향이 있다고 응답 <br>- 설문조사 결과 한국인의 88.3%는 삶에서 디지털 서비스가 필수적이라고 느끼고, 88.6%가 삶의 질을 높인다고 응답했으며, 이러한 인식은 전 연령대에서 비슷하게 나타남"
+				], 
+				"html_p_caption": null,
+				"html_image_video": "https://cdn.imweb.me/upload/S201802135a82811f6de02/6e42c29ba4878.png"
+			}, 
+			{
+				"publishingDate": "2021-06-17", 
+				"publisher": "LAB2050",
+				"title": "삶의 질과 지속가능성을 포괄하는 ‘참성장지표’ 발표", 
+				"hyperlink_01": "https://www.lab2050.org/37/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=7028022&t=board", 
+				"hyperlink_01_desc": "보도자료 (LAB2050 홈페이지)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"- 민간 싱크탱크 LAB2050은 삶의 질, 환경, 인적 자본, 디지털 가치를 포괄하는 새로운 국가발전지표인 ‘참성장지표’를 개발하여 발표 <br>- 참성장지표 추산 결과, 1997년부터 2020년까지 GDP는 783조 원에서 1831조 원으로 133% 증가했지만, 참성장지표는 620조 원에서 1277조 원으로 105% 증가에 그쳐 <br>- 지난 23년간 참성장지표와 GDP의 격차는 추세적으로 커지고 있으며 2018년 이후 더욱 확대됨", 
+					"- GDP가 경제의 양적 성장을 측정하는 지표라면, 참성장지표는 질적 성장까지 포괄한 지표로서 정책 수립과 국정 운영의 기준으로서 활용 가능할 것"
+				], 
+				"html_p_caption": null,
+				"html_image_video": ""
+			}, 
+			{
+				"publishingDate": "2021-10-26", 
+				"publisher": "LAB2050",
+				"title": "〈참성장포럼 세션2〉 다음 세대 탄소중립 위해 2030년까지 고통 분담과 지속적 투자 병행돼야", 
+				"hyperlink_01": "https://medium.com/lab2050/%EB%8B%A4%EC%9D%8C-%EC%84%B8%EB%8C%80-%ED%83%84%EC%86%8C%EC%A4%91%EB%A6%BD-%EC%9C%84%ED%95%B4-2030%EB%85%84%EA%B9%8C%EC%A7%80-%EA%B3%A0%ED%86%B5-%EB%B6%84%EB%8B%B4%EA%B3%BC-%EC%A7%80%EC%86%8D%EC%A0%81-%ED%88%AC%EC%9E%90-%EB%B3%91%ED%96%89%EB%8F%BC%EC%95%BC-a8839b473fc3", 
+				"hyperlink_01_desc": "블로그 링크 (Medium)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"‘2030년까지만 견디며 투자하자. 다음 세대는 고통 없이 탄소중립화된 세상에서 살 수 있다.’ <br>지난 18일, 참성장포럼 두 번째 세션 〈탄소중립 시대의 경제 전환〉이 열렸다. 이 날은 공교롭게도 탄소중립위원회가 ‘2030년까지 탄소배출 40%를 감축(2018년 기준)하는 사회를 만들겠다’는 내용의 2030 국가 온실가스 감축목표를 발표했던 날이었다. 탄소중립위 안은 급격한 변화가 필요한 야심적 시나리오다. <br>포럼에는 박숙현 지속가능시스템연구소 소장, 오형나 경희대 국제학과 교수, 윤태환 루트에너지 대표, 이태동 연세대 정치외교학과 교수가 패널로 참석했다.", 
+					"패널들은 탄소중립은 정권을 넘어선 시대적 과제임을 강조하면서도 이를 달성하는 과정에서 일자리 소멸, 지역간 격차 등의 고통이 발생할 것을 우려했다. 그럼에도 재정지출 확대와 적절한 산업정책, 사회보장 강화를 통해 지나치게 고통을 짊어지는 사람이 없도록 배려하며 탄소중립화를 향해 나아가야 한다고 입을 모았다. <br>‘그린뉴딜’을 처음 언급한 토머스 프리드먼의 말처럼, ‘그린은 잔인하고 고통스러운 것’이라는 점을 다같이 받아들여야 하며, 그 고통을 분담하는 공정한 과정을 정부가 현명하게 운영해 나가야한다는 이야기다.", 
+					"포럼은 10월 18일 오후 2시부터 지구와사람이 운영하는 서울 삼청동의 ‘유재’에서 이원재 LAB2050 대표의 사회로 100분간 진행됐다."
+				], 
+				"html_p_caption": "〈LAB2050-한겨레경제사회연구원 공동기획: 참성장의 시대를 열자〉로 한겨레 신문에 실린 글입니다.",
+				"html_image_video": "https://miro.medium.com/v2/0*Z4Bk5xdLU5r3KHpT"
+			}, 
+			{
+				"publishingDate": "2021-12-13", 
+				"publisher": "LAB2050",
+				"title": "〈참성장포럼 세션3〉 지역소멸, 인구 수 늘리기 보다 삶의 질 높여야 막을 수 있어", 
+				"hyperlink_01": "https://medium.com/lab2050/%EC%A7%80%EC%97%AD%EC%86%8C%EB%A9%B8-%EC%9D%B8%EA%B5%AC-%EC%88%98-%EB%8A%98%EB%A6%AC%EA%B8%B0-%EB%B3%B4%EB%8B%A4-%EC%82%B6%EC%9D%98-%EC%A7%88-%EB%86%92%EC%97%AC%EC%95%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%96%B4-6b06e664665a", 
+				"hyperlink_01_desc": "블로그 링크 (Medium)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"2020년은 대한민국 지역과 인구 정책의 중요한 전환점이었다. 인구가 줄기 시작했고, 수도권 인구가 비수도권 인구를 넘어섰다. <br>지난 23일 개최된 참성장포럼 세 번째 세션〈지역소멸을 넘는 일과 삶의 재구성〉에서는 지역 인구 감소의 원인은 저출생이라는 통념을 정면으로 반박하며 논의의 장을 열었다. 공태영 기술자숲 대표, 임주환 희망제작소 소장, 차미숙 국토연구원 선임연구위원, 홍선미 한신대 사회복지학과 교수가 패널로 참석해 지역소멸의 실태와 해결책에 대해 토론했다.",
+					"패널들은 지역소멸을 막기 위해서는 인구 수 자체가 아닌 삶의 질을 지키는 방향으로 나아가야 한다고 목소리를 모았다. 생활에 필수적인 서비스를 확충하고, ‘괜찮은 일자리’를 만드는 기업과 지역사회에 충분한 지원을 하는 등 새로운 사업을 개발할 게 아니라 좋은 정책 사례를 유기적으로 결합해야 한다고 지적했다.", 
+					"포럼은 11월 23일 오후 2시부터 서울 마포구 희망제작소의 ‘누구나학교’에서 이원재 LAB2050 대표의 사회로 100분간 진행됐다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": "https://miro.medium.com/v2/0*wTrGEtPSE4KH4YQ5"
+			}, 
+			{
+				"publishingDate": "2022-02-17", 
+				"publisher": "LAB2050",
+				"title": "“낡은 GDP, ‘북극성’ 될 수 없어”… 참성장·행복 가치 담은 새 국가지표 도입 청원", 
+				"hyperlink_01": "https://medium.com/lab2050/notice-8d7042f863c3", 
+				"hyperlink_01_desc": "블로그 링크 (Medium)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"- 민간연구소 LAB2050 청원에 이헌재, 정재승 등 전문가‧기업인‧활동가 622명 참여 <br>- 참성장‧행복 지표 공론화 국회토론회… 김영배, 장혜영, 조정훈 의원 등 공동 주최 <br>- “2010년 이후 참성장지표 기준 성장, GDP 상회… 삶의 질, 지속가능성에 더 주목해야”"
+				], 
+				"html_p_caption": null,
+				"html_image_video": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cv0kIaEyYZ_Y53k88BjWtQ.jpeg"
+			}
+	]}, 
+	
+	{ "category": "video",
+	 	"category_KR": "영상",
+		"category_class": "posting-category-video",
+	 
+		"post_list": [
+			{
+				"publishingDate": "2022-08-01", 
+				"publisher": "LAB2050",
+				"title": "패스트푸드 같은 창업 지원은 그만! ㅣ로컬의 먼저 간 미래 3부 f. 한종호 전 강원창조경제혁신센터 센터장", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=YHHdVAzfKpE&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/YHHdVAzfKpE"
+			}, 
+			{
+				"publishingDate": "2022-07-29", 
+				"publisher": "LAB2050",
+				"title": "로컬크리에이터, 성공을 위한 세 가지 조건ㅣ로컬의 먼저 간 미래 2부 f. 한종호 전 강원창조경제혁신센터 센터장", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=vUVDM6lEfKU&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/vUVDM6lEfKU"
+			}, 
+			{
+				"publishingDate": "2022-07-28", 
+				"publisher": "LAB2050",
+				"title": "청년 창업 지원, 이대로 괜찮은가?ㅣ로컬의 먼저 간 미래 1부 f. 한종호 전 강원창조경제혁신센터 센터장", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=-B2gJFFgEpg&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/-B2gJFFgEpg"
+			}, 
+			{
+				"publishingDate": "2022-07-01", 
+				"publisher": "LAB2050",
+				"title": "60대 중년 시대가 왔다! 무엇을 준비해야 하나? | 정해진 미래, 인구감소시대의 전환 전략 2부 | f. 서형수 전 저출산고령사회위원회 부위원장", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=rmpufvRldck&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/rmpufvRldck"
+			}, 
+			{
+				"publishingDate": "2022-06-30", 
+				"publisher": "LAB2050",
+				"title": "인구절벽 비밀은 신자유주의 + 가족주의 잘못된 만남 때문ㅣ정해진 미래, 인구감소시대의 전환 전략 1부 f. 서형수 전 저출산고령사회위원회 부위원장", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=PJB8jX1ITcQ&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/PJB8jX1ITcQ"
+			}, 
+			{
+				"publishingDate": "2022-06-29", 
+				"publisher": "LAB2050",
+				"title": "탄소중립이 아니라 탈탄소 혁명이 필요하다! ㅣ함께 만드는 탄소중립 사회 2부 f. 이유진 녹색전환연구소 부소장", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=ZUUXYl-u6Ic&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/ZUUXYl-u6Ic"
+			}, 
+			{
+				"publishingDate": "2022-06-28", 
+				"publisher": "LAB2050",
+				"title": "코로나 이후 다시 늘었는데? 2050년 탄소중립 시나리오 정말 가능한가?ㅣ함께 만드는 탄소중립 사회 1부 f. 이유진 녹색전환연구소 부소장", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=bb2B5K1qfEM&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/bb2B5K1qfEM"
+			}, 
+			{
+				"publishingDate": "2022-06-16", 
+				"publisher": "LAB2050",
+				"title": "“돈 안 받을테니 뽑아가” 완주군 농민이 버럭한 이유는? ㅣ임경수 ‘로컬푸드’ 토크 2부 ㅣ참성장토크", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=10c5QkV_jKI&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/10c5QkV_jKI"
+			}, 
+			{
+				"publishingDate": "2022-06-10", 
+				"publisher": "LAB2050",
+				"title": "석유 없이 농사짓기? 퍼머컬처로 농촌을 새롭게 디자인하다 ㅣ 임경수 ‘로컬푸드’ 토크 1부 ㅣ참성장토크", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=cLwbk7nCUcA&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/cLwbk7nCUcA"
+			}, 
+			{
+				"publishingDate": "2022-06-08", 
+				"publisher": "LAB2050",
+				"title": "혐오와 갈등이 심해지는 사회, LAB2050이 북극성이 되겠습니다!ㅣ스티븐 핑거 ‘지금 다시 계몽’ [참성장특강 Q&A]", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=89VFzPZMWPM&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/89VFzPZMWPM"
+			}, 
+			{
+				"publishingDate": "2022-06-02", 
+				"publisher": "LAB2050",
+				"title": "경제는 망했고 정치는 위기라지만 그래도 세상은 좋아지고 있다?ㅣ스티븐 핑거 ‘지금 다시 계몽’ [참성장특강]", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=zm3ZZOrQRtU&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/zm3ZZOrQRtU"
+			}, 
+			{
+				"publishingDate": "2022-05-30", 
+				"publisher": "LAB2050",
+				"title": "남북관계는 노태우 정부처럼? 그리고 중국이 뒤통수 맞았다고 생각하는 이유 ㅣ 윤석열 정부 외교정책 운영 원리 2부 f. 왕선택 전 YTN 통일외교안보 전문 기자", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=YT7IDJnsuDo&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/YT7IDJnsuDo"
+			}, 
+			{
+				"publishingDate": "2022-05-25", 
+				"publisher": "LAB2050",
+				"title": "씽크탱크는 선진국·창의형 사회 선도...북한은 우크라 전쟁 어떻게 볼까?ㅣ 윤석열 정부 외교정책 운영 원리 1부 f. 왕선택 전 YTN 통일외교안보 전문 기자", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=UK01cacIwVc&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/UK01cacIwVc"
+			}, 
+			{
+				"publishingDate": "2022-04-19", 
+				"publisher": "LAB2050",
+				"title": "21세기 저성장의 비밀은 긴축과 불평등! 균형재정과 능력주의는 넣어두세요: 성공한 나라 불안한 시민 3부 feat. 윤홍식 교수", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=0zNStuDbdSQ&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/0zNStuDbdSQ"
+			}, 
+			{
+				"publishingDate": "2022-03-30", 
+				"publisher": "LAB2050",
+				"title": "우리에게 남은 시간은? 감소사회 일본을 통해 배운다", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=lushQk69Y2M&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/lushQk69Y2M"
+			}, 
+			{
+				"publishingDate": "2022-03-29", 
+				"publisher": "LAB2050",
+				"title": "나라는 성공했는데 왜 우리는 불안할까?ㅣ대한민국은 진짜 선진국?", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=sT3FdrHVn9U&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/sT3FdrHVn9U"
+			}, 
+			{
+				"publishingDate": "2022-03-25", 
+				"publisher": "LAB2050",
+				"title": "지금 좌절하고 있는, 진보를 꿈꾸었던 사람들에게ㅣ 벽돌책 부수기ㅣ 지금 다시 계몽", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=PGsBtwDiaP4&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/PGsBtwDiaP4"
+			}, 
+			{
+				"publishingDate": "2022-03-15", 
+				"publisher": "LAB2050",
+				"title": "지표는 이미 선진국인데 왜 아닌 것 같지?ㅣ진정한 성장의 의미", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=Um1B8H1ympk&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/Um1B8H1ympk"
+			}, 
+			{
+				"publishingDate": "2022-03-14", 
+				"publisher": "LAB2050",
+				"title": "행복은 GDP순이 아니잖아요!ㅣ새로운 발전지표 도입을 촉구합니다", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=J_r950Qwadc&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/J_r950Qwadc"
+			}, 
+			{
+				"publishingDate": "2021-10-06T00:00:00Z", 
+				"publisher": "LAB2050",
+				"title": "성장이란 무엇인가?ㅣ참성장 포럼 세션 1. 성장 시대의 균열, 한국 사회를 이끌 다음 패러다임은?", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=jyEQW3Rnsz4&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/jyEQW3Rnsz4"
+			}, 
+			{
+				"publishingDate": "2021-10-06T05:23:11Z", 
+				"publisher": "LAB2050",
+				"title": "경제 성장이 문제라고?ㅣ참성장 포럼 세션 1. 성장 시대의 균열, 한국 사회를 이끌 다음 패러다임은?", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=ziAF7n-J1RM&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/ziAF7n-J1RM"
+			}, 
+			{
+				"publishingDate": "2021-10-06T05:24:56Z", 
+				"publisher": "LAB2050",
+				"title": "한국 청년만 기후위기 걱정을 안하는 이유ㅣ참성장 포럼 세션 1. 성장 시대의 균열, 한국 사회를 이끌 다음 패러다임은?", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=lhB3Ba5hEvk&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/lhB3Ba5hEvk"
+			}, 
+			{
+				"publishingDate": "2021-10-06T05:27:33Z", 
+				"publisher": "LAB2050",
+				"title": "불평등, 불공정 해결 없이는 혁신도 창업도 탄소중립도 불가능ㅣ참성장 포럼 세션 1. 성장 시대의 균열, 한국 사회를 이끌 다음 패러다임은?", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=o3RF_cpV8Xk&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/o3RF_cpV8Xk"
+			}, 
+			{
+				"publishingDate": "2021-10-06T05:29:05Z", 
+				"publisher": "LAB2050",
+				"title": "기후위기와 불평등, 혁신적인 솔루션은 없을까?ㅣ참성장 포럼 세션 1. 성장 시대의 균열, 한국 사회를 이끌 다음 패러다임은?", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=zwgwZdmmlY8&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/zwgwZdmmlY8"
+			}, 
+			{
+				"publishingDate": "2021-11-03T15:34:24Z", 
+				"publisher": "LAB2050",
+				"title": "다이어트와 탄소중립? 2050 시나리오, 2030 NDC, 기후변화, 탄소중립 개념 정리부터", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=0uFM95kHm4E&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/0uFM95kHm4E"
+			}, 
+			{
+				"publishingDate": "2021-11-03T15:35:15Z", 
+				"publisher": "LAB2050",
+				"title": "기후위기가 부른 경제 패러다임 전쟁: 탈성장, 탈탄소, 탈동조화... 우리의 선택은?", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=Yx22IFf0yZQ&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/Yx22IFf0yZQ"
+			}, 
+			{
+				"publishingDate": "2021-11-03T15:47:46Z", 
+				"publisher": "LAB2050",
+				"title": "탄소중립 시대, 제조업과 일자리의 미래는?: 그린뉴딜 1.0과 2.0", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=47FZsRlSJnk&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/47FZsRlSJnk"
+			}, 
+			{
+				"publishingDate": "2021-11-03T15:48:23Z", 
+				"publisher": "LAB2050",
+				"title": "탈원전 철회? 전기료 인상?: 재생에너지 전환을 위한 핵심 과제", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=-7UdcWRd6I4&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/-7UdcWRd6I4"
+			}, 
+			{
+				"publishingDate": "2021-11-03T15:49:44Z", 
+				"publisher": "LAB2050",
+				"title": "하와이 청정에너지 시스템의 비밀: 기후위기 대응을 위한 거버넌스", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=SRrp7F4x-M8&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/SRrp7F4x-M8"
+			}, 
+			{
+				"publishingDate": "2021-12-06T00:18:00Z", 
+				"publisher": "LAB2050",
+				"title": "지역소멸, 무엇이 소멸한다는 의미일까?: 지역 간 인구쟁탈전, 서울의 인구 댐 역할을 하는 지역들ㅣ참성장포럼 - 사람, 기술, 환경이 함께 나아가는 사회", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=nbNQ77Mw7xY&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/nbNQ77Mw7xY"
+			}, 
+			{
+				"publishingDate": "2021-12-06T00:29:21Z", 
+				"publisher": "LAB2050",
+				"title": "지역소멸을 막을 ‘괜찮은 일자리’: 지역 자원 활용의 성공사례, 돌봄 일자리 창출가능성, 지역산업클러스트와 혁신 모델ㅣ참성장포럼 - 사람, 기술, 환경이 함께 나아가는 사회", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=ZTUOC616RoU&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/ZTUOC616RoU"
+			}, 
+			{
+				"publishingDate": "2021-12-06T00:35:40Z", 
+				"publisher": "LAB2050",
+				"title": "로컬 혁신의 자원은 결국 ‘사람’: 로컬크리에이터 진입과 성장을 돕는 지역, 지역대학의 미래?ㅣ참성장포럼 - 사람, 기술, 환경이 함께 나아가는 사회 (1부)", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=klKeYei6oVM&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/klKeYei6oVM"
+			}, 
+			{
+				"publishingDate": "2021-12-06T00:46:43Z", 
+				"publisher": "LAB2050",
+				"title": "로컬 혁신의 자원은 결국 ‘사람’: 로컬크리에이터 진입과 성장을 돕는 지역, 지역대학의 미래?ㅣ참성장포럼 - 사람, 기술, 환경이 함께 나아가는 사회 (2부)", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=RIqfs8n60gA&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/RIqfs8n60gA"
+			}, 
+			{
+				"publishingDate": "2021-12-06T00:47:42Z", 
+				"publisher": "LAB2050",
+				"title": "지역소멸 대응 해외사례와 정책 제안 : 일본의 관계인구와 복수주소제, 제도적 지원과 재정 투입, 융합 거버넌스 조직 필요해ㅣ참성장포럼 - 사람, 기술, 환경이 함께 나아가는 사회", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=vlD9Wq1bgGA&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/vlD9Wq1bgGA"
+			}, 
+			{
+				"publishingDate": "2021-12-31T01:58:18Z", 
+				"publisher": "LAB2050",
+				"title": "경제 불평등의 원인과 실태: 소득분배는 개선됐을까? 불평등의 주범은?", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=LwdP2O5P_hg&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/LwdP2O5P_hg"
+			}, 
+			{
+				"publishingDate": "2021-12-31T02:08:51Z", 
+				"publisher": "LAB2050",
+				"title": "불평등이 만든 사회적 문제는? 공정성 인식, 갈등과 혐오, 불안과 불행을 겪는 대한민국", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=3MXF3wsyWOw&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/3MXF3wsyWOw"
+			}, 
+			{
+				"publishingDate": "2021-12-31T02:15:52Z", 
+				"publisher": "LAB2050",
+				"title": "커지는 격차, 해결 방안은?: 국토보유세, 참여소득 제안", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=1zoUcZD3ivg&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/1zoUcZD3ivg"
+			}, 
+			{
+				"publishingDate": "2021-12-31T02:21:05Z", 
+				"publisher": "LAB2050",
+				"title": "삶의 위험과 비용을 줄이는 방법 : 사회보험과 사회서비스 확충, 소득기반 복지 확대", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=vNqnye8NVJ4&list=PLc_sXaoxUdFPPQujfcOCWqrrChrVNzL5c", 
+				"hyperlink_01_desc": "영상 시리즈 링크 (YouTube)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/vNqnye8NVJ4"
+			}
+	]}, 
+	
+	{ "category": "press",
+	 	"category_KR": "언론 보도",
+		"category_class": "posting-category-press",
+	 
+		"post_list": [
+			{
+				"publishingDate": "2021-06-18", 
+				"publisher": "TBS",
+				"title": "출퇴근에 연간 191조 원 줄줄… “다양한 근무형태 고려해야”", 
+				"hyperlink_01": "https://www.youtube.com/watch?v=n0Vcts-nE0A", 
+				"hyperlink_01_desc": "기사 (TBS)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"출퇴근길에 들이는 교통비와 시간을 돈으로 따지면 얼마나 될까요? 국내 한 민간 연구소의 연구 결과, 연간 190조 원이 넘는 것으로 조사됐습니다. 실제 출퇴근 길이 어떤지, 평일 아침 출근길을 김초롱 기자가 담아봤습니다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": "https://www.youtube.com/embed/n0Vcts-nE0A"
+			}, 
+			{
+				"publishingDate": "2021-06-16", 
+				"publisher": "한국일보",
+				"title": "LAB2050, GDP 대체지표 개발", 
+				"hyperlink_01": "https://www.hankookilbo.com/News/Read/A202106161806000487", 
+				"hyperlink_01_desc": "기사 (한국일보)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"민간 싱크탱크 LAB2050이 16일 국제 세미나 “새로운 경제의 상상: 인간, 자연, 공동체, 디지털의 가치를 담다”를 열고 국내총생산(GDP)를 대체하는 성장지표로 참성장지표를 발표했다. 참성장지표는 경제뿐만 아니라 환경, 공동체, 인적 자본, 디지털 서비스의 가치를 반영한 지표로, 시장에서 화폐로 교환된 재화와 서비스를 중심으로 구성된 GDP와 달리 현재와 미래의 삶의 질에 영향을 주지만 시장에서 거래되지 않는 다양한 가치를 담고 있다.", 
+					"이에 따르면 한국 GDP는 1997년부터 2020년까지 783조원에서 1,831조원으로 133% 증가했지만, 삶의 질과 지속가능성을 측정한 ‘참성장지표’는 620조원에서 1,277조원으로 105% 증가했다. 또 2018년 이후에 GDP는 일정한 수준을 유지한 반면, 참성장지표는 하락하면서 격차가 벌어진 것으로 나타났다. <br>LAB2050은 “1997년부터 2020년까지의 측정 결과를 보면, 참성장지표는 1997년 620조 원에서 2020년 1,277조원으로 2배 증가하였으며, GDP 대비 비중은 79.2%에서 69.7%로 감소한 것으로 나타났다”면서 “참성장지표 기준으로 보면 GDP는 시간이 지날수록 우리나라의 성장을 점점 더 과대평가하고 있다”고 주장했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-16", 
+				"publisher": "한국경제",
+				"title": "성장률의 함정’…성장률 밑도는 삶의질 개선세", 
+				"hyperlink_01": "https://www.hankyung.com/economy/article/202106165063", 
+				"hyperlink_01_desc": "기사 (한국경제)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"한국인의 삶의 질 개선 속도가 실물경제 성장세를 따라가지 못한 것으로 나타났다. 최근 24년 동안 경제성장률은 연 3.59%를 기록한 반면 삶의질 지표는 연 3.39%에 그쳤다. <br>민간 싱크탱크 LAB2050은 16일 열린 국제 세미나 ‘새로운 경제의 상상: 인간, 자연, 공동체, 디지털의 가치를 담다’에서 이같이 발표했다. 1997~2020년 연평균 성장률은 3.59%를 기록했다. 반면 LAB2050이 산출한 참성장지표는 같은 기간 3.39%에 그쳤다.", 
+					"참성장지표는 경제를 비롯해 환경, 공동체, 인적 자본, 디지털 서비스의 가치를 반영한 지표다. 재화·서비스를 중심으로 구성된 GDP와 달리 현재와 미래의 삶의 질에 영향을 주지만 시장에서 거래되지 않는 다양한 가치를 담았다고 자평했다. <br>김동연 전 경제부총리는 참성장지표에 대해 “양적성장에서 탈피해 질적 성장, 사회의 성숙도, 상생 등이 반영된 지표”라고 말했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-16", 
+				"publisher": "서울경제",
+				"title": "경제는 성장한다는데 내 삶은 왜 이럴까···답 나왔다", 
+				"hyperlink_01": "https://www.sedaily.com/NewsView/22NNQZRS0", 
+				"hyperlink_01_desc": "기사 (서울경제)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"국내총생산(GDP) 등 경제 성장 속도에 비해 국민들이 체감하는 삶의 질 개선 속도가 느리다는 분석 결과가 나왔다. 수출 회복 등으로 국가 경제가 성장해 GDP가 증가하더라도 실제 국민의 삶은 불안정한 상태가 반복되고 있다는 지적이다.", 
+					"민간 싱크탱크인 랩(LAB)2050은 16일 국제 세미나 ‘새로운 경제의 상상: 인간, 공동체 디지털의 가치를 담다’를 통해 경제의 질적 성장을 측정하기 위한 ‘참성장지표’를 공개했다. <br>참성장지표는 경제적 조사 자료만 반영하지 않고 환경, 공동체, 인적 자본, 디지털 서비스 등을 고려해 구성했다. GDP는 시장에서 화폐로 거래된 재화·서비스 중심으로 구성돼 있지만 참성장지표는 시장에서 거래되지 않지만 삶의 질에 영향을 주는 항목들이 반영돼 있다.", 
+					"참성장지표를 구체적으로 살펴보면 경제, 일과 여가, 인적 자본, 환경, 디지털 부문으로 구분된다. 일과 여가 부문에서는 가사돌봄노동 가치와 여가·통근시간에 따른 후생 증감 등을 측정했다. 인적 자본은 고등교육의 사회적 가치를 중심으로 한 긍정적 인적 자본, 범죄로 인한 부정적 인적 자본 등을 평가한다. 대기·수질 오염 비용 등 환경은 물론이고 무료 디지털 서비스에 대해 느끼는 가치까지 포함해 지표를 산출했다.", 
+					"측정 결과 GDP는 1997년 783조 원에서 2020년 1,831조 원으로 133% 증가한 반면 참성장지표는 같은 기간 620조 원에서 1,277조 원으로 105% 증가하는데 그쳤다. GDP 대비 비중은 79.2%에서 69.7%로 감소한 것으로 나타났다. <br>수출 등으로 GDP가 안정적인 모습을 보이더라도 대다수 국민의 삶은 시기마다 굴곡을 보이며 불안정한 상태였다는 지적이다. 1997년 외환위기 직후 GDP 감소 폭보다 참성장지표의 감소 폭이 더 컸을 뿐 아니라 반등 시점은 더욱 뒤쳐졌다. 기업이나 경제 전체보다 국민 개개인 삶에 더 오랫동안 영향을 준 것이다. <br>김동연 전 경제부총리(유쾌한반란 대표)는 “이제까지 추구해왔던 양적 성장에서 질적 성장, 사회의 성숙도, 사람 사이 상생 등 가치가 들어갈 수 있는 새로운 지표 개발이라는 측면에서 첫 걸음을 디뎠다”고 평가했다. ‘오래된 미래’의 저자 헬레나 호지도 “끝 없는 경제 성장이 우리를 행복하게 하지 않는다”라며 “지역 경제와 공동체, 문화, 자연의 가치를 복원해야 한다”고 말했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-16", 
+				"publisher": "뉴시스",
+				"title": "경제 성장했는데 삶의 질은 낮아져…외환위기때와 비슷", 
+				"hyperlink_01": "http://www.newsis.com/view/?id=NISX20210616_0001478422&cID=15001&pID=1500", 
+				"hyperlink_01_desc": "기사 (뉴시스)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"한국의 경제는 매년 3% 이상 성장했지만, 국민들이 체감하는 지표는 외환위기 때와 비슷하다는 연구 결과가 나왔다. <br>민간 연구기관인 ‘LAB2050’은 16일 자체 유튜브 채널을 통해 ‘새로운 경제의 상상: 인간, 자연, 공동체, 디지털의 가치를 담다’를 주제로 국제 전문가 온라인 세미나를 열고 이 같은 내용을 발표했다.", 
+					"참성장지표는 경제 뿐 아니라 환경, 공동체, 인적자본, 디지털 서비스 등 국내총생산(GDP)에 포함되지 않는 경제·사회적 가치를 포괄한 지표다. 시장에서 화폐로 교환된 재화와 서비스를 중심으로 구성된 GDP와 달리 현재와 미래의 삶의 질에 영향을 주지만 시장에서 거래되지 않는 다양한 가치를 담고 있다. 김동연 전 경제부총리 겸 기기획재정부 장관 등이 참여한 민간 연구기관 ‘LAB2050’은 미국, 유럽, 중국 등 주요 국가의 종합 후생 수준을 측정하는 참진보지수(GPI)를 바탕으로 국내 상황에 맞게 개편해 이 같은 지표를 내놨다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-16", 
+				"publisher": "조선일보",
+				"title": "경제 ‘쑥쑥’ 성장했는데, 삶의 질은 ‘찔끔’ 좋아졌다", 
+				"hyperlink_01": "https://www.chosun.com/economy/economy_general/2021/06/16/2CUQCAI3LJGMNJXAOOHPOEGK6Y", 
+				"hyperlink_01_desc": "기사 (조선일보)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"한국 국민이 실제로 느끼는 삶의 질은 국내총생산(GDP)로 상징되는 경제의 성장에 비해 개선 속도가 느리다는 조사 결과가 나왔다. 기업의 수출이 늘고 정부가 재정을 많이 투입하면 불어나는 국내총생산(GDP)의 성장 속도만큼 국민 개개인의 삶이 나아지지는 않는다는 것이다. <br>민간 싱크탱크 랩2050(LAB2050)은 16일 열린 국제 세미나 ‘새로운 경제의 상상: 인간, 공동체 디지털의 가치를 담다’에서 경제의 질적 성장을 측정하기 위해 GDP의 대안으로 새로 만든 ‘참성장지표’를 공개했다. 참성장지표는 경제적 조사 자료만 반영하지 않고 환경, 공동체, 인적자본, 디지털 서비스 등의 기준을 더해 구성했다. 노벨 경제학자 수상자인 조지프 스티글리츠 미 컬럼비아대 교수가 GDP의 대안으로 만든 ‘행복 지수’와 비슷한 개념이다.", 
+					"참성장지표를 GDP와 비교했더니 1997~2020년 한국의 GDP가 783조원에서 1831조원으로 133% 증가하는 사이, 참성장지표는 620조원에서 1277조원으로 105% 증가하는 데 그쳤다. 랩2050 이원재 대표는 “지난 23년 동안 참성장지표와 GDP의 격차가 커졌고 2018년 이후 차이는 더 벌어졌다”라며 “GDP가 시간이 갈수록 한국 경제의 성장을 더 과대평가하고 있다는 뜻”이라고 말했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-16", 
+				"publisher": "매일경제",
+				"title": "韓경제 연 3.6%씩 컸지만 삶의 질은 3.4% 성장에 그쳐", 
+				"hyperlink_01": "http://news.mk.co.kr/newsRead.php?no=582271&year=202", 
+				"hyperlink_01_desc": "기사 (매일경제)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"한국경제가 최근 23년간 연 평균 3.59%씩 성장했지만 국민들의 삶의 질을 측정한 질적 성장률은 3.39%에 그쳤다는 연구 결과가 나왔다. 15일 민간 연구기관 ‘LAB2050’는 우리 사회 질적 성장을 가늠하는 지표인 ‘참성장지표’를 자체 산출하며 이 같은 결과가 나왔다고 밝혔다.", 
+					"LAB2050에 따르면 우리나라 국내총생산(GDP)은 1997년부터 2020년까지 783조원에서 1831조원으로 133% 불었다. 하지만 경제 성장률에 환경, 인적 자본 등을 반영한 참성장지표상 경제 규모는 620조 원에서 1277조 원으로 105% 늘어나는데 그쳤다. <br>참성장지표는 경제에 환경, 공동체, 인적 자본, 디지털 서비스 가치를 반영한 지표다. 이 지표가 둔화할 수록 국민들의 전반적인 삶의 질이 개선되는 속도는 늦어지는 것으로 해석된다. <br>특히 GDP 대비 참성장지표 비중은 79.2%에서 69.7%로 거꾸로 줄어든 것으로 나타났다. LAB2050 관계자는 “참성장지표 기준으로 보면 시간이 지날수록 우리나라의 성장을 GDP가 점점 더 과대평가하고 있다”고 주장했다.", 
+					"이원재 LAB2050 대표는 “코로나19 사태 이후 우리 경제가 디지털화, 탄소 중립화와 삶의 질 향상 등 새 방향성을 설정할 필요가 있다”며 “이제 양적 성장 중심에서 삶의 질과 지속가능성 중심의 성장을 지향할 때가 됐다”고 말했다. <br>참성장지표 산출을 후원한 사단법인 ‘유쾌한반란’의 김동연 이사장은 “질적 성장, 사회의 성숙도 등 가치가 들어갈 수 있는 새로운 지표가 개발됐다는 측면에서 의미가 있다”며 “우리 경제를 질적으로 성장시키는데 도움이 되길 바란다”고 의미를 부여했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-16", 
+				"publisher": "이데일리",
+				"title": "금융위기 이후 GDP 38% 성장했지만 국민 체감소득은 3.5% 뒷걸음질", 
+				"hyperlink_01": "http://www.edaily.co.kr/news/newspath.asp?newsid=0328656662908237", 
+				"hyperlink_01_desc": "기사 (이데일리)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"우리나라의 전체 경제 규모가 꾸준히 성장하고 있지만 그에 비해 국민 개개인 삶의 질은 오히려 더 나빠졌다는 조사 결과가 나왔다. 민간 싱크탱크 랩2050에 따르면 지난해 우리나라 국민총생산(GDP)은 글로벌 금융위기 당시인 2008년 대비 38% 성장했지만, 개인 삶의 질 등 정성적인 지표를 함께 반영해 계산한 결과 국민 체감소득은 오히려 3.5% 감소했다. <br>랩2050은 16일 ‘새로운 경제의 상상: 인간·자연·공동체·디지털의 가치를 담다’라는 주제로 열리는 2021년 국제 지역사회의 날 행사에서 국내총생산(GDP) 대체 지표로 ‘참성장지표’를 최초로 발표하면서 이같이 밝혔다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-16", 
+				"publisher": "한겨레",
+				"title": "“GDP 133% 증가 개인의 삶 105% 좋아지는 데 그쳐”", 
+				"hyperlink_01": "https://www.hani.co.kr/arti/economy/economy_general/999592.html", 
+				"hyperlink_01_desc": "기사 (한겨레)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"외환위기 이후 20년간 국내총생산(GDP)은 133% 늘었지만, 개인의 삶은 이보다 적은 105% 좋아지는 데 그쳤다는 분석이 나왔다. 지디피에 담기지 않는 소득 불평등, 환경, 일과 여가 등 국민 삶의 질을 살펴본 결과다. <br>민간 정책연구소인 랩2050은 16일 “우리나라의 지디피는 1997년 이후 연평균 3.59%씩 성장했지만, 개인의 삶의 질과 지속 가능성을 기준으로 새롭게 구성한 ‘참성장지표’ 기준으로 보면 연평균 3.39% 성장했다”고 밝혔다.", 
+					"한 국가의 경제 발전 수준을 보여주는 지디피는 소비, 투자, 수출, 수입 등의 객관적인 생산 총량을 반영한다. 랩2050은 이날 지디피로 드러나지 않는 소득 불평등, 환경 오염, 가사돌봄 불평등, 디지털 서비스 가치 등을 숫자로 환산해 지디피 보완 지표를 발표했다. 예를 들어 가계의 소비 지출은 지디피에 플러스(+) 요인으로 반영되지만, 참성장지표에서는 지출 중 의식주 방어지출과 소득불평등 비용 등은 마이너스(-) 요인으로 차감한다. 의식주 방어지출은 일상 생활을 위한 어쩔 수 없는 소비인 탓에 편익 감소로 분류하는 것이다. 소득불평등 비용은 지니계수가 높아질수록 지불해야 하는 사회적 비용이 크다고 보고 가계소비지출에서 차감한다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-16", 
+				"publisher": "UPI뉴스",
+				"title": "한국 경제, ‘삶의 질’ 반영하면 지난해 13% 역성장", 
+				"hyperlink_01": "http://www.upinews.kr/newsView/upi202106160040", 
+				"hyperlink_01_desc": "기사 (UPI뉴스)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"지난해 코로나19 여파로 한국의 국내총생산(GDP)이 약 0.9% 감소했다. 하지만 삶의 질과 지속가능성까지 반영할 경우 우리 경제 수준은 13% 넘게 뒷걸음쳤다는 연구 결과가 나왔다. <br>민간 싱크탱크인 LAB2050은 삶의 질, 환경, 인적 자본, 디지털 가치 등 GDP가 담지 못하는 가치까지 포괄하는 새로운 지표인 ‘참성장지표’를 발표하면서 “GDP는 시간이 지날수록 우리나라의 성장을 점점 더 과대평가하고 있다”며 “삶의 질과 지속가능성 중심의 성장을 지향할 때”라고 강조했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-17", 
+				"publisher": "뉴스워치",
+				"title": "[NW전망대] “금융상품 줄해지=팍팍한 삶”…곳곳서 드러나는 서민경제 위기 시그널", 
+				"hyperlink_01": "http://www.newswatch.kr/news/articleView.html?idxno=55346", 
+				"hyperlink_01_desc": "기사 (뉴스워치)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"◇국민 체감 경제 상황, 경제 회복과 체감 경기는 달라 <br>우선 국민들이 체감하는 경제 상황이 국가 위기였던 외환위기 당시와 비슷하다는 연구 결과가 나와 주목할 만하다. <br>지난 16일, 민간 연구기관인 ‘LAB2050’이 자체 유튜브 채널을 통해 ‘새로운 경제의 상상: 인간, 자연, 공동체, 디지털의 가치를 담다’라는 주제로 개최한 국제 전문가 온라인 세미나에서 이같은 내용이 발표됐다. ‘LAB2050’은 김동연 전 경제부총리 겸 기획재정부 장관 등이 참여한 민간 연구기관이다.", 
+					"세미나에서 ‘LAB2050’은 미국, 유럽, 중국 등 주요 국가의 종합 후생 수준을 측정하는 참진보지수(GPI)를 바탕으로 참성장지표를 제시했다. 참성장지표는 경제를 비롯해 환경, 공동체, 인적자본, 디지털 서비스 등 국내총생산(GDP)에 포함되지 않는 경제·사회적 가치를 모두 담은 지표로 GDP와 달리 ‘삶의 질’에 초점을 맞춘 지표다. <br>일례로 외환위기 당시 참성장지표는 GDP보다 더 크게 감소했고, GDP가 외환위기 1년만에 반등한 반면 참성장지표는 반등에 더 오랜 시간이 걸리면서 기업 등 거시적 경제 외 국민 개개인의 삶이 회복하는 데 더 오랜 시간이 걸렸다는 점을 드러냈다.", 
+					"이 지표에 따르면 코로나19에 잠식된 지난해 국내 참성장지표 경제부문은 GDP의 61.4%로 전년(71.7%) 보다 10.3%포인트 하락했다. 외환위기 직후인 2009년 60.8%와 비슷한 수준이다. <br>이와 관련, 참성장지표 개발 책임연구자인 최영준 연세대 행정학과 교수는 “코로나로 인한 GDP의 위기, 국가 재정의 지속가능성에 대한 걱정에 비해 국민 개개인의 삶의 위기나 미래 아이들이 살아갈 환경의 지속가능성은 늘 후순위였다”면서 “이번에 개발한 참성장지표는 앞으로 우리 사회가 나아갈 북극성이 무엇인지를 선택하게 해줄 것”이라고 지적했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-20", 
+				"publisher": "더스쿠프",
+				"title": "[Weekly Issue] GDP와 삶의 질 간극의 이유", 
+				"hyperlink_01": "http://www.thescoop.co.kr/news/articleView.html?idxno=51023", 
+				"hyperlink_01_desc": "기사 (더스쿠프)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"1997년 외환위기 이후 한국 경제는 매년 3% 이상 성장했지만, 국민들이 체감하는 지표는 외환위기 때와 비슷하다는 연구 결과가 나왔다. 민간연구기관인 ‘LAB2050’은 16일 자체 유튜브 채널을 통해 ‘새로운 경제의 상상: 인간, 자연, 공동체, 디지털의 가치를 담다’를 주제로 국제 전문가 온라인 세미나를 열고, 이런 내용을 발표했다. <br>LAB2050은 ‘참성장지표’를 통해 주장을 뒷받침했다. 참성장지표는 시장에서 화폐로 교환된 재화와 서비스를 중심으로 구성되는 국내총생산(GDP)과는 달리 경제, 환경, 공동체, 인적자본, 디지털 서비스 등 GDP에 포함되지 않는 경제·사회적 가치를 포괄한 지표다. 삶의 질에 영향을 주면서도 시장에서는 거래되지 않는 다양한 가치를 담는다는 게 특징이다.", 
+					"LAB2050에 따르면 1997~2020년 우리나라 GDP는 783조원에서 1831조원으로 13 3% 증가했지만, 참성장지표로는 620조원에서 1277조원으로 105% 늘어나는 데 그쳤다. GDP가 우리나라의 경제 성장을 과대포장하고 있다는 얘기다. <br>같은 기간 GDP와 참성장지표의 연도별 변화 추이를 비교해 보면 차이가 두드러진다. GDP 기준으로는 내수가 나쁜 경우에도 수출이 약진하면서 안정적인 모습이지만, 참성장지표로 보면 대다수 국민의 삶은 시기마다 큰 굴곡을 나타내며 불안정한 모습을 보였다. <br>예컨대 외환위기 직후 GDP가 감소할 때 참성장지표는 더욱 급감했다. 기업의 생산 감소세보다 소비나 임금수준 등으로 드러나는 국민 삶의 질의 하락이 더욱 가팔랐다는 거다. 특히 GDP는 외환위기 이후 1년 만에 반등세를 보였지만, 참성장지표 반등 시점은 훨씬 늦었다. <br>코로나19가 확산된 지난해도 마찬가지다. 참성장지표는 지난해 GDP의 61.4%에 불과한데, 글로벌 금융위기 직후인 2009년(60.8 %)과 비슷한 수준이다. LAB2050 측은 “참성장지표는 기존 경제지표와 국민이 체감하는 삶의 질 사이에 괴리가 큰 이유를 좀 더 명확하게 보여줄 수 있을 것”이라고 말했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-05-30", 
+				"publisher": "아시아경제",
+				"title": "“韓 온실가스 발생에 따른 경제적 피해 연간 38조 원”", 
+				"hyperlink_01": "https://www.asiae.co.kr/article/202105301046415573", 
+				"hyperlink_01_desc": "기사 (아시아경제)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"우리나라 온실가스 배출에 따라 발생하는 경제적 비용이 연간 38조원에 달한다는 연구 결과가 나왔다. <br>30일 민간 싱크탱크 LAB2050은 1990년부터 2019년까지의 온실가스 배출량을 우리 경제에 끼친 영향으로 환산한 결과 이 같은 결과를 얻었다고 30일 밝혔다.", 
+					"LAB2050 연구팀은 온실가스 배출이 가져올 피해를 1t당 약 5만5000원으로 추산했다. 이를 2018년 탄소 순배출량인 6만8630t을 기준으로 환산한 결과 약 38조원의 비용이 발생한다. 순배출량이란 전체 탄소배출량에서 임업 등을 통해 흡수한 양을 차감한 순수 추가 배출량이다. <br>온실가스 배출의 경제적 비용을 추정하는 연구는 세계적으로 다양하게 이뤄지고 있다. 이번 LAB2050 연구에서는 미국 정부에서 공식적으로 발표하는 비용 추정치를 사용했다. 이 추정치는 미국의 기후변화 정책을 수립할 때 사용하는 공식적인 수치다. 온실가스 사회적 비용평가를 위한 범부처 위원회를 통해 오바마 행정부 시절 2회(2010·2016년), 바이든 행정부 시절 1회(2021년) 발표된 바 있다.", 
+					"이원재 LAB2050 대표는 “온실가스 배출의 이익은 일부 대기업 등 소수가 가져가며 비용은 미래세대를 포함한 사회 전체가 떠안는 구조”라며 “온실가스 배출의 비용을 고려해 우리 경제의 성과를 다시 판단한 뒤 전환을 모색할 필요가 있다”고 말했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-05-30", 
+				"publisher": "SBSBiz",
+				"title": "온실가스 발생에 따른 경제적 피해 연간 38조원", 
+				"hyperlink_01": "https://biz.sbs.co.kr/article/2000001729", 
+				"hyperlink_01_desc": "기사 (SBSBiz)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"우리나라 온실가스 배출에 따라 발생하는 경제적 비용이 연간 38조 원에 이른다는 연구 결과가 나왔습니다. <br>30일 민간싱크탱크 LAB2050은 1990년부터 2019년까지의 온실가스 배출량을 우리 경제에 끼친 영향으로 환산한 결과 이같이 추산됐다고 밝혔습니다.", 
+					"LAB2050 연구팀은 온실가스 배출이 가져올 피해를 1t(톤)당 약 5만5000원으로 추산했습니다. <br>이를 2018년 탄소 순 배출량인 6만8630t에 적용하면 경제적 피해는 약 38조 원이 됩니다. <br>1990년 5조 원과 비교하면 28년 만에 약 7배 이상 늘어난 수칩니다.", 
+					"이지웅 부경대 교수는 “기후변화에 대응하기 위한 정책 및 조치를 수립하고 실행하려면 기후변화의 피해를 화폐적 단위로 환산해 경제 전체에 끼친 영향을 파악해야 한다”며 “이번 연구의 의의는 그 환산을 해냈다는 데 있다”고 강조했습니다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-05-30", 
+				"publisher": "연합뉴스",
+				"title": "민간 싱크탱크 “온실가스 발생에 따른 경제적 피해 연간 38조원”", 
+				"hyperlink_01": "http://yna.kr/AKR20210528114600530?did=1195", 
+				"hyperlink_01_desc": "기사 (연합뉴스)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"우리나라 온실가스 배출에 따라 발생하는 경제적 비용이 연간 38조원에 이른다는 연구 결과가 나왔다. <br>민간 싱크탱크 LAB2050(랩이공오공)은 1990년부터 2019년까지의 온실가스 배출량을 우리 경제에 끼친 영향으로 환산한 결과 이같이 추산됐다고 30일 밝혔다.", 
+					"이번 연구는 LAB2050이 대안적 경제지표로 연구하는 ‘참성장지표’(지속가능성과 공존의 가치를 품은 새로운 사회·경제 발전 지표) 연구의 일환으로 진행됐다. <br>LAB2050 연구팀은 온실가스 배출이 가져올 피해를 1t당 약 5만5천원으로 추산했다. <br>이를 2018년 탄소 순배출량인 6만8천630t을 기준으로 환산하면 약 38조원이 된다. <br>1990년 5조원과 비교하면 28년 만에 약 7배 이상 늘어난 수치다. <br>온실가스 배출의 경제적 비용을 추정하는 연구는 세계적으로 다양하게 이뤄지고 있다. <br>이번 연구에서는 미국 정부에서 공식적으로 발표하는 비용 추정치를 사용했다.", 
+					"연구팀의 이지웅 부경대 교수는 “기후변화에 대응하기 위한 정책 및 조치를 수립하고 실행하려면 기후변화의 피해를 화폐적 단위로 환산해 경제 전체에 끼친 영향을 파악해야 한다”며 “이번 연구의 의의는 그 환산을 해냈다는 데 있다”고 강조했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-05-30", 
+				"publisher": "중소기업뉴스",
+				"title": "“온실가스 발생 따른 경제적 피해 연간 38조원”", 
+				"hyperlink_01": "http://www.smedaily.co.kr/news/articleView.html?idxno=20462", 
+				"hyperlink_01_desc": "기사 (중소기업뉴스)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"우리나라 온실가스 배출에 따라 발생하는 경제적 비용이 연간 38조원에 이른다는 연구 결과가 나왔다. <br>30일 민간 싱크탱크 LAB2050(랩이공오공)에 따르면 1990년부터 2019년까지의 온실가스 배출량을 우리 경제에 끼친 영향으로 환산한 결과 이같이 추산됐다. 이번 연구는 LAB2050이 대안적 경제지표로 연구하는 ‘참성장지표’(지속가능성과 공존의 가치를 품은 새로운 사회·경제 발전 지표) 연구의 일환으로 진행됐다.", 
+					"LAB2050 연구팀은 온실가스 배출이 가져올 피해를 1톤당 약 5만5000원으로 추산했다. 이를 2018년 탄소 순배출량인 6만8630톤을 기준으로 환산하면 약 38조원이 된다. 1990년 5조원과 비교하면 28년 만에 약 7배 이상 늘어난 수치다. <br>온실가스 배출의 경제적 비용을 추정하는 연구는 세계적으로 다양하게 이뤄지고 있다. 이번 연구에서는 미국 정부에서 공식적으로 발표하는 비용 추정치를 사용했다.", 
+					"연구팀의 이지웅 부경대 교수는 “기후변화에 대응하기 위한 정책 및 조치를 수립하고 실행하려면 기후변화의 피해를 화폐적 단위로 환산해 경제 전체에 끼친 영향을 파악해야 한다”며 “이번 연구의 의의는 그 환산을 해냈다는 데 있다”고 강조했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-14", 
+				"publisher": "한국일보",
+				"title": "카톡, 네이버, 유튜브… 유료화하면 얼마까지 내실 건가요?", 
+				"hyperlink_01": "https://hankookilbo.com/News/Read/A2021061410070004493?did=N", 
+				"hyperlink_01_desc": "기사 (한국일보)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"메신저·SNS·이메일은 가장 많은 응답자(33%)가 선택한 ‘비용을 지불하더라도 꼭 활용하고 싶은 서비스’였다. 영상·음악(25%) 뉴스·정보·검색(22%) 서비스가 뒤를 이었다. 젊을수록 영상·음악 서비스를, 나이가 들수록 메신저·SNS 메일을 중요하게 여기는 경향이 나타났다. 영상·음악 서비스는 20대(33%)가 가장 선호한 서비스였지만 60대 이상(20%)에서는 선호도가 가장 낮았다.", 
+					"응답자의 88%는 디지털 서비스가 삶에 필수적이며 삶의 질을 높인다고 응답했다. 이러한 인식은 모든 연령대에서 비슷하게 나타났다. 새로운 디지털 서비스에 대한 수용성을 조사한 결과, 응답자의 절반 가량(46%)이 새로운 서비스가 나오면 활용하는 것을 즐긴다고 응답했다. 그렇지 않다는 응답은 8%에 그쳤다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2022-06-15", 
+				"publisher": "열린뉴스통신",
+				"title": "원용희 의원, “경기도 차원 참 성장지표 도입 서둘러야”", 
+				"hyperlink_01": "https://www.onews.tv/news/articleView.html?idxno=128537", 
+				"hyperlink_01_desc": "기사 (열린뉴스통신)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"경기도의회 원용희 의원(민·고양5)은 14일 본회의장에서 개최된 제360회 정례회 제1차 본회의 5분 자유발언을 통해 GDP 대체 참 성장지표 마련을 경기도 차원에서 선제적으로 추진 및 지원하고, 구체적인 성과를 도출해낼 것을 촉구했다.", 
+					"원용희 의원은 “GDP는 경제적 산출을 보여주는 엄밀한 지표 성격을 가지고는 있지만 불평등과 같은 경제적 성과는 물론, 사회적·환경적인 성과를 포괄하고 있는 못하다”며 “근시안적 패러다임과 단기적 성장에 우선순위가 아닌 진정한 성장과 발전을 측정할 수 있는 새로운 대안의 경제지표가 필요한 시점”이라고 강조했다. <br>또한, “시스템의 변화를 위한 참성장전략은 비전과 선언으로만은 할 수 없기에, 참성장의 목표를 명확히 하고, 그 목표가 어느 정도 달성되고 있는지에 대한 면밀한 모니터링이 중요하다”며 “참성장의 전략과 함께 이를 모니터링 할 수 있는 새로운 이정표인 참 성장지표가 필수적”이라고 역설했다. <br>마지막으로 “우리 사회가 단순 경제성장에서 벗어나 탄소중립, 불평등 해소, 국민통합 등 향후 과제를 해결하기 위해서는 종합적으로 측정할 수 있는 기준을 마련해야 한다”며 “김동연 당선자는 참 성장지표에 대한 이해도가 높은 만큼 도 차원에서 연간 10억원 정도의 예산을 책정, 각 전문가들을 모으고, 지원하며 완성도를 높여간다면 4년안에 충분히 유의미한 결실을 맺을 수 있을 것으로 생각한다”고 덧붙였다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2022-06-14", 
+				"publisher": "아시아투데이",
+				"title": "원용희 경기의원, ‘참 성장지표’ 완성을 위해 매년 10억원 예산 책정 주문", 
+				"hyperlink_01": "https://www.asiatoday.co.kr/view.php?key=20220614010007111", 
+				"hyperlink_01_desc": "기사 (아시아투데이)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"경기도의회 건설교통위원회 원용희 도의원(더불어민주당, 고양5)은 14일 경기도의회 제360회 정례회 제1차 본회의에서 지난 제358회 임시회 5분 자유발언을 통해 강조했던 GDP 대체 ‘참 성장지표’ 마련을 경기도 차원에서 선제적 추진과 지원하고, 구체적인 성과를 도출해낼 것을 다시 한 번 촉구하고자 5분 자유발언을 실시했다.", 
+					"원용희 도의원은 “GDP는 경제적 산출을 보여주는 엄밀한 지표 성격을 가지고는 있지만 불평등과 같은 경제적 성과는 물론, 사회적·환경적인 성과를 포괄하고 있는 못하다”며 “근시안적 패러다임과 단기적 성장에 우선순위가 아닌 진정한 성장과 발전을 측정할 수 있는 새로운 대안의 경제지표가 필요한 시점이다”며 GDP의 한계에 대한 지적과 함께 새로운 지표의 필요성을 설명했다. <br>또한 “시스템의 변화를 위한 참성장전략은 비전과 선언으로만은 할 수 없기에, 참성장의 목표를 명확히 하고, 그 목표가 어느 정도 달성되고 있는지에 대한 면밀한 모니터링이 중요하다”며 “참성장의 전략과 함께 이를 모니터링 할 수 있는 새로운 이정표인 ‘참 성장지표’가 필수적이다”고 강조했다. <br>원 의원은 “지금까지는 새로운 지표 마련에 일부 대학과 LAB2050과 같은 사설연구소들만 노력해왔었다”며 “지난 5분 자유발언을 통해 앞으로 경기도가 새로운 지표 마련에 적극 나서줄 것과 그에 따른 계획 마련을 요청했었으나, 진지한 고민과 적극적인 시행 의지가 아닌 형식적인 답변뿐이었다”며 ‘참 성장지표’ 마련에 대한 도의 적극적인 행정을 주문했다. <br>이어 “‘참 성장지표’가 당장 GDP를 대체하기에는 아직 부족하기는 하나, 사회환경적 가치를 측정하는 기존 지표들은 하나의 단일화된 값으로 제시되지 않고 있고, 집계 주기도 제각각이다”며 “우리 사회가 단순 경제성장에서 벗어나 탄소중립, 불평등 해소, 국민통합 등 향후 과제를 해결하기 위해서는 종합적으로 측정할 수 있는 기준을 마련해야 한다”고 설명했다. <br>끝으로, “김동연 당선자는 ‘참 성장지표’에 대한 이해도가 높은 만큼 도 차원에서 연간 10억 원 정도의 예산을 책정해, 각 전문가들을 모으고, 지원하며 완성도를 높여간다면 4년안에 충분히 유의미한 결실을 맺을 수 있을 것으로 생각한다”며 “경기도에서 ‘참 성장지표’에 대한 연구를 적극적으로 추진해주기를 당부한다”며 5분 자유발언을 마쳤다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2022-06-14", 
+				"publisher": "브레이크뉴스",
+				"title": "원용희 도의원, ‘참 성장지표’ 완성을 위해 매년 10억원 예산 책정 주문", 
+				"hyperlink_01": "http://www.breaknews.com/901610", 
+				"hyperlink_01_desc": "기사 (브레이크뉴스)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"경기도의회 건설교통위원회 원용희 도의원(더불어민주당, 고양5)은 14일(화) 경기도의회 제360회 정례회 제1차 본회의에서 지난 제358회 임시회 5분 자유발언을 통해 강조하였던 GDP 대체 ‘참 성장지표’ 마련을 경기도 차원에서 선제적으로 추진 및 지원하고, 구체적인 성과를 도출해낼 것을 다시 한 번 촉구하고자 5분 자유발언을 실시했다.", 
+					"원용희 도의원은 “GDP는 경제적 산출을 보여주는 엄밀한 지표 성격을 가지고는 있지만 불평등과 같은 경제적 성과는 물론, 사회적·환경적인 성과를 포괄하고 있는 못하다”며 “근시안적 패러다임과 단기적 성장에 우선순위가 아닌 진정한 성장과 발전을 측정할 수 있는 새로운 대안의 경제지표가 필요한 시점이다”며 GDP의 한계에 대한 지적과 함께 새로운 지표의 필요성을 설명했다. <br>또한, “시스템의 변화를 위한 참성장전략은 비전과 선언으로만은 할 수 없기에, 참성장의 목표를 명확히 하고, 그 목표가 어느 정도 달성되고 있는지에 대한 면밀한 모니터링이 중요하다”며 “참성장의 전략과 함께 이를 모니터링 할 수 있는 새로운 이정표인 ‘참 성장지표’가 필수적이다”고 강조했다. <br>원 의원은 “지금까지는 새로운 지표 마련에 일부 대학과 LAB2050과 같은 사설연구소들만 노력해왔었다”며 “지난 5분 자유발언을 통해 앞으로 경기도가 새로운 지표 마련에 적극 나서줄 것과 그에 따른 계획 마련을 요청했었으나, 진지한 고민과 적극적인 시행 의지가 아닌 형식적인 답변뿐이었다”며 ‘참 성장지표’ 마련에 대한 도의 적극적인 행정을 주문했다. <br>이어 “‘참 성장지표’가 당장 GDP를 대체하기에는 아직 부족하기는 하나, 사회환경적 가치를 측정하는 기존 지표들은 하나의 단일화된 값으로 제시되지 않고 있고, 집계 주기도 제각각이다”며 “우리 사회가 단순 경제성장에서 벗어나 탄소중립, 불평등 해소, 국민통합 등 향후 과제를 해결하기 위해서는 종합적으로 측정할 수 있는 기준을 마련해야 한다”고 설명했다. <br>끝으로, “김동연 당선자는 ‘참 성장지표’에 대한 이해도가 높은 만큼 도 차원에서 연간 10억원 정도의 예산을 책정하여, 각 전문가들을 모으고, 지원하며 완성도를 높여간다면 4년안에 충분히 유의미한 결실을 맺을 수 있을 것으로 생각한다”며 “경기도에서 ‘참 성장지표’에 대한 연구를 적극적으로 추진해주기를 당부한다”며 5분 자유발언을 마쳤다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2022-03-23", 
+				"publisher": "포인트데일리",
+				"title": "원용희 경기도의원, GDP를 대체할 ‘참 성장지표’의 필요성 강조", 
+				"hyperlink_01": "http://www.thekpm.com/news/articleView.html?idxno=113058", 
+				"hyperlink_01_desc": "기사 (포인트데일리)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"경기도의회 건설교통위원회 원용희 의원(더불어민주당, 고양5)은 23일 경기도의회 제358회 임시회 제2차 본회의에서 GDP를 대체할 ‘참 성장지표’ 마련을 촉구했다.", 
+					"원용희 도의원은 이날 5분발언을 통해 현재의 케인즈주의에 입각한 유효수요창출 정책에 대한 설명과 함께 “GDP는 실제 측정하려고 하는 의도에 비해 우리 사회 및 국제적으로 과장되어 활용되고 있으며, 실제 국가의 발전지표가 되기에는 다양한 한계점들을 가지고 있다”며 “경제적 산출을 보여주는 엄밀한 지표 성격을 가지고는 있지만 불평등과 같은 경제적 과제를 보여주지는 못한다”고 지적했다. <br>이어 “GDP의 증가는 여전히 가장 중요한 국가적 미션이자 지표로 관리되고 있지만, 지표와 국민들 삶과의 괴리가 크게 벌어지고 있다”면서 “우리에게는 경제적 산출 증대로서의 성장을 넘어, 진정한 성장과 발전을 측정할 수 있는 새로운 경제지표가 필요하다”고 말했다. <br>다음으로 원 의원은 재차 새로운 성장전략이 필요함을 강조하면서 “경제적 산출의 극대화라는 과거의 근시안적인 패러다임의 성장목표를 넘어서서, 연대적 성장을 측정할 수 있는 ‘참 성장지표’가 필요한 시점이다”며 “다른 한편으로는 총량의 생산증가를 넘어 개인의 관점에서 실질적 복지 향상이 이루어져야 한다”고 말했다. <br>끝으로 “가격이 아닌 가치에 주목해야 하며, 환경을 희생하는 발전이 아닌 환경과 함께하는 지속가능한 발전, 변화하는 디지털 사회에 대한 시야가 필요하다”며 “공존의 시대로 한 발을 더 내딛기 위해서는 새로운 성장의 전략과 함께 이를 모니터링할 수 있는 지표가 필수적이다”면서 5분 자유발언을 마쳤다.", 
+					"이날 원용희 의원은 “오늘의 5분 자유발언은 LAB2050에서 발간한 「성장전략:공멸이 아닌 공존의 시대로」 및 「참성장지표 개발 연구」의 내용을 인용하였다”며 LAB2050 및 연구자들에게 양해와 감사의 말을 전했다"
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2022-06-16", 
+				"publisher": "부산일보",
+				"title": "“GDP로는 국민 행복 보장 못 해… ‘새 성장 지표’ 도입을”", 
+				"hyperlink_01": "http://www.busan.com/view/busan/view.php?code=2022021609120116214", 
+				"hyperlink_01_desc": "기사 (부산일보)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"한국 경제의 새로운 성장 방향은 환경, 삶의 질, 디지털의 가치 등을 높이는 방향으로 전환되어야 하며, 이를 위해 국가가 국내총생산(GDP)을 벗어나 새로운 발전지표를 만들고 활용해야 한다는 주장이 국회 토론회에서 제기됐다. <br>민간독립연구소 LAB2050(이사장 정건화)은 16일 국회에서 국민총행복전환포럼(이사장 박진도), 김영배(민주당), 장혜영(정의당), 조정훈(시대전환) 국회의원 등과 공동으로 ‘GDP는 낡았다: 지속가능성과 삶의 질 향상을 위한 참성장·행복지표 도입 방안’ 토론회를 개최했다.", 
+					"이날 토론회 발제자들은 ‘중앙정부와 지방정부는 GDP를 넘어서는 새로운 발전지표를 개발하고 정책 수립에 활용해야 하며, 이를 위한 시범사업을 실시해야 한다’는 데 의견을 같이 했다. LAB2050은 토론회에서 소개한 지난 1년여간의 연구 성과를 집약한 연구보고서를 17일 일반에 공개한다. <br>청원을 처음 제안하고 진행한 LAB2050 이원재 대표는 “차기 정부가 ESG(환경·사회·지배구조) 가치를 반영한 참성장지표를 도입하고 활용해야 경제 전환과 국제 흐름에 맞춘 새로운 성장동력 발굴도 가능할 것”이라며 “참성장지표 기준으로 지난 20년의 데이터를 분석한 결과, 우리 사회는 양적 성장 일변도에서 벗어나 환경 및 사회적 가치에 집중할 때 더욱 높은 성과를 낼 수 있을 것으로 예상된다”고 말했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2021-06-09", 
+				"publisher": "이데일리",
+				"title": "민간 싱크탱크 ‘랩이공오공’, GDP 대안지표로 개발한 ‘참성장지표’ 첫 발표", 
+				"hyperlink_01": "http://www.edaily.co.kr/news/newspath.asp?newsid=03122566629080080", 
+				"hyperlink_01_desc": "기사 (이데일리)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"민간 싱크탱크 LAB2050(랩이공오공)이 ‘2021 국제 지역화의 날’ 행사에서 자체 개발한 ‘참성장지표’를 처음 발표한다. <br>랩이공오공은 16일 ‘새로운 경제의 상상: 인간, 자연, 공동체, 디지털의 가치를 담다’라는 주제로 열리는 2021년 국제 지역사화의 날 행사에서 참성장지표를 최초로 발표한다고 9일 밝혔다.", 
+					"랩이공오공 연구팀이 발표할 참성장지표는 디지털, 가사노동, 자원봉사와 같이 시장에서 거래되지 않는 서비스와 교육, 신뢰, 시간, 환경 자원 등 실질 국내총샌상(GDP)에 포함되지 않는 경제·사회적 가치를 포괄한 지표이다. <br>참성장지표는 참진보지수인 GPI(Genuine Progress Indicator)를 기반으로 한국 사회의 특수성과 디지털화 등 변화된 환경을 반영해 만들었다. 랩이공오공은 이번 세미나를 통해 참성장지표 측정 방법과 결과를 자세히 설명할 예정이다.", 
+					"GPI는 1995년 클리포드 콥이 개발한 이후 여러 연구자들에 의해 미국, 유럽, 중국 등 주요 국가 및 지역의 종합적인 후생 수준을 측정하는 지표로 발전해 왔으며, 미국 메릴랜드 주 정부 등에서 공식적으로 측정해 활용하고 있다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}, 
+			{
+				"publishingDate": "2022-02-17", 
+				"publisher": "산업일보",
+				"title": "“GDP는 낡은 지표, 지속가능성 위한 새로운 지표 도입 필요”", 
+				"hyperlink_01": "http://www.kidd.co.kr/news/225911", 
+				"hyperlink_01_desc": "기사 (산업일보)", 
+				"hyperlink_02": null, 
+				"hyperlink_02_desc": null, 
+				"html_p_list": [
+					"손종칠 한국외대 경제학부 교수는 물질적 성장에 기반한 GDP의 양적 확장을 추구했던 사회의 성장 패러다임은 다양한 위기를 맞고 있다며, 참성장지표 구축의 필요성을 강조했다. <br>경제, 환경, 디지털, 인적자본, 일과 여가 등 5가지 부문을 포함하는 참성장지표는 시장 거래와 가격에 의존하는 GDP의 상당 부분에 새로운 성장 기준을 더한 지표다.", 
+					"손 교수는 “기후위기, 불평등 심화 등 위기가 표출되고 있는 상황에서 성숙한 선진국은 GDP 지표 외에 ESG 등 사회·환경적 가치를 담은 지표를 추구하는 사회라고 할 수 있다”며 “참성장지표를 GDP 보완지표로 활용할 수 있다”고 피력했다. <br>특히 화폐로 표현한 단일 지표인 참성장지표는 GDP와 직접적인 비교가 가능하며, 시장과 비시장 가치를 정량화해 직관적이고 명료하다고 설명했다."
+				], 
+				"html_p_caption": null,
+				"html_image_video": null
+			}
+	]}
+]

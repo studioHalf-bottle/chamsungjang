@@ -158,24 +158,24 @@ main.archive > div#archive-menu div#posting-category-filter > button.category-fi
   border-color: #000000;
 }
 main.archive > div#archive-menu div#posting-category-filter > button.category-filter-button.selected-category-filter#category-filter-button-paper {
-  background-color: #7e37ba;
-  border-color: #7e37ba;
+  background-color: #0039EA;
+  border-color: #0039EA;
 }
 main.archive > div#archive-menu div#posting-category-filter > button.category-filter-button.selected-category-filter#category-filter-button-data {
-  background-color: #666666;
-  border-color: #666666;
+  background-color: #7e37ba;
+  border-color: #7e37ba;
 }
 main.archive > div#archive-menu div#posting-category-filter > button.category-filter-button.selected-category-filter#category-filter-button-blog {
-  background-color: #7e37ba;
-  border-color: #7e37ba;
+  background-color: #F67056;
+  border-color: #F67056;
 }
 main.archive > div#archive-menu div#posting-category-filter > button.category-filter-button.selected-category-filter#category-filter-button-video {
-  background-color: #37c447;
-  border-color: #37c447;
+  background-color: #51C35B;
+  border-color: #51C35B;
 }
 main.archive > div#archive-menu div#posting-category-filter > button.category-filter-button.selected-category-filter#category-filter-button-press {
-  background-color: #7e37ba;
-  border-color: #7e37ba;
+  background-color: #4FD5BA;
+  border-color: #4FD5BA;
 }
 main.archive > div#archive-menu div#posting-list {
   display: flex;
@@ -186,19 +186,19 @@ main.archive > div#archive-menu div#posting-list section.posting-head {
   padding: 1rem 2rem;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head.posting-category-data span.posting-category {
-  color: #666666;
+  color: #7e37ba;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head.posting-category-video span.posting-category {
-  color: #37c447;
+  color: #51C35B;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head.posting-category-paper span.posting-category {
-  color: #7e37ba;
+  color: #0039EA;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head.posting-category-blog span.posting-category {
-  color: #7e37ba;
+  color: #F67056;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head.posting-category-press span.posting-category {
-  color: #7e37ba;
+  color: #4FD5BA;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head span.posting-publisher {
   color: #aaaaaa;
@@ -207,19 +207,19 @@ main.archive > div#archive-menu div#posting-list section.posting-head:hover {
   cursor: pointer;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-data date, main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-data span, main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-data h2 {
-  color: #666666;
+  color: #7e37ba;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-video date, main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-video span, main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-video h2 {
-  color: #37c447;
+  color: #51C35B;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-paper date, main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-paper span, main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-paper h2 {
-  color: #7e37ba;
+  color: #0039EA;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-blog date, main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-blog span, main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-blog h2 {
-  color: #7e37ba;
+  color: #F67056;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-press date, main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-press span, main.archive > div#archive-menu div#posting-list section.posting-head:hover.posting-category-press h2 {
-  color: #7e37ba;
+  color: #4FD5BA;
 }
 main.archive > div#archive-menu div#posting-list section.posting-head.focused-head:hover {
   cursor: default;
@@ -265,6 +265,7 @@ main.archive > div#detail-articles div.posting-metadata span.posting-category {
 }
 main.archive > div#detail-articles h2 {
   font-size: 1.5rem;
+  line-height: 1.35;
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 0.8em;
@@ -281,14 +282,14 @@ main.archive > div#detail-articles p {
   font-size: 0.8rem;
 }
 main.archive.main-posting-category-data div#archive-menu > div#posting-list > section.posting-head.focused-head {
-  background-color: #666666;
+  background-color: #7e37ba;
 }
 main.archive.main-posting-category-data div#archive-menu > div#posting-list > section.posting-head.focused-head date, main.archive.main-posting-category-data div#archive-menu > div#posting-list > section.posting-head.focused-head span, main.archive.main-posting-category-data div#archive-menu > div#posting-list > section.posting-head.focused-head h2 {
   color: #ffffff;
 }
 main.archive.main-posting-category-data #detail-articles {
   display: block;
-  background-color: #666666;
+  background-color: #7e37ba;
 }
 main.archive.main-posting-category-data #detail-articles header#detail-article-header button#hiding-detail-article-button:hover {
   cursor: pointer;
@@ -296,14 +297,14 @@ main.archive.main-posting-category-data #detail-articles header#detail-article-h
   background-color: #ffffff;
 }
 main.archive.main-posting-category-video div#archive-menu > div#posting-list > section.posting-head.focused-head {
-  background-color: #37c447;
+  background-color: #51C35B;
 }
 main.archive.main-posting-category-video div#archive-menu > div#posting-list > section.posting-head.focused-head date, main.archive.main-posting-category-video div#archive-menu > div#posting-list > section.posting-head.focused-head span, main.archive.main-posting-category-video div#archive-menu > div#posting-list > section.posting-head.focused-head h2 {
   color: #ffffff;
 }
 main.archive.main-posting-category-video #detail-articles {
   display: block;
-  background-color: #37c447;
+  background-color: #51C35B;
 }
 main.archive.main-posting-category-video #detail-articles header#detail-article-header button#hiding-detail-article-button:hover {
   cursor: pointer;
@@ -311,14 +312,14 @@ main.archive.main-posting-category-video #detail-articles header#detail-article-
   background-color: #ffffff;
 }
 main.archive.main-posting-category-paper div#archive-menu > div#posting-list > section.posting-head.focused-head {
-  background-color: #7e37ba;
+  background-color: #0039EA;
 }
 main.archive.main-posting-category-paper div#archive-menu > div#posting-list > section.posting-head.focused-head date, main.archive.main-posting-category-paper div#archive-menu > div#posting-list > section.posting-head.focused-head span, main.archive.main-posting-category-paper div#archive-menu > div#posting-list > section.posting-head.focused-head h2 {
   color: #ffffff;
 }
 main.archive.main-posting-category-paper #detail-articles {
   display: block;
-  background-color: #7e37ba;
+  background-color: #0039EA;
 }
 main.archive.main-posting-category-paper #detail-articles header#detail-article-header button#hiding-detail-article-button:hover {
   cursor: pointer;
@@ -326,14 +327,14 @@ main.archive.main-posting-category-paper #detail-articles header#detail-article-
   background-color: #ffffff;
 }
 main.archive.main-posting-category-blog div#archive-menu > div#posting-list > section.posting-head.focused-head {
-  background-color: #7e37ba;
+  background-color: #F67056;
 }
 main.archive.main-posting-category-blog div#archive-menu > div#posting-list > section.posting-head.focused-head date, main.archive.main-posting-category-blog div#archive-menu > div#posting-list > section.posting-head.focused-head span, main.archive.main-posting-category-blog div#archive-menu > div#posting-list > section.posting-head.focused-head h2 {
   color: #ffffff;
 }
 main.archive.main-posting-category-blog #detail-articles {
   display: block;
-  background-color: #7e37ba;
+  background-color: #F67056;
 }
 main.archive.main-posting-category-blog #detail-articles header#detail-article-header button#hiding-detail-article-button:hover {
   cursor: pointer;
@@ -341,14 +342,14 @@ main.archive.main-posting-category-blog #detail-articles header#detail-article-h
   background-color: #ffffff;
 }
 main.archive.main-posting-category-press div#archive-menu > div#posting-list > section.posting-head.focused-head {
-  background-color: #7e37ba;
+  background-color: #4FD5BA;
 }
 main.archive.main-posting-category-press div#archive-menu > div#posting-list > section.posting-head.focused-head date, main.archive.main-posting-category-press div#archive-menu > div#posting-list > section.posting-head.focused-head span, main.archive.main-posting-category-press div#archive-menu > div#posting-list > section.posting-head.focused-head h2 {
   color: #ffffff;
 }
 main.archive.main-posting-category-press #detail-articles {
   display: block;
-  background-color: #7e37ba;
+  background-color: #4FD5BA;
 }
 main.archive.main-posting-category-press #detail-articles header#detail-article-header button#hiding-detail-article-button:hover {
   cursor: pointer;

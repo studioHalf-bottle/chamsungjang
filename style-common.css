@@ -23,65 +23,13 @@
   width: 70%;
 }
 
-/* customising Bootrstrap theme */
-/*
-.row { margin-left: 0; margin-right: 0; }
-
-.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
-	padding-left: 0; padding-right: 0; 
-}
-*/
 /* ---------- colour initialize settings ---------- */
-.colour-equalityGreen {
-  color: #2FC516;
+.colour-backgroundGrey {
+  color: #e9e9e9;
 }
 
-.colour-background-equalityGreen {
-  background-color: #2FC516;
-}
-
-.colour-instagram {
-  color: #D91089;
-}
-
-.colour-tiktok {
-  color: #ffffff;
-}
-
-.colour-tiktok-sub {
-  color: #5eeff1;
-}
-
-.colour-facebook {
-  color: #1D5CBA;
-}
-
-.colour-twitter {
-  color: #4DD3FD;
-}
-
-.colour-youtube {
-  color: #FE1212;
-}
-
-.border-instagram {
-  border-color: #D91089;
-}
-
-.border-tiktok {
-  border-color: #5eeff1;
-}
-
-.border-facebook {
-  border-color: #1D5CBA;
-}
-
-.border-twitter {
-  border-color: #4DD3FD;
-}
-
-.border-youtube {
-  border-color: #FE1212;
+.colour-background-backgroundGrey {
+  background-color: #e9e9e9;
 }
 
 /* scrollbar configuration - for webkit browsers */
@@ -164,10 +112,6 @@ p {
   padding: 0 0 0 0;
 }
 
-li {
-  margin-bottom: 0.75em;
-}
-
 div, input {
   box-sizing: border-box;
   background-color: transparent;
@@ -194,6 +138,18 @@ span.b {
 footer#page-footer {
   text-align: center;
 }
+footer#page-footer span {
+  margin-right: 2.5em;
+}
+footer#page-footer span:last-child {
+  margin-right: 0;
+}
+footer#page-footer a {
+  color: #000000;
+}
+footer#page-footer a:visited, footer#page-footer a:active {
+  color: #000000;
+}
 
 /* ---------- basic layout ---------- */
 header#page-header {
@@ -204,26 +160,35 @@ header#page-header {
   padding: 0.5em;
   border-bottom: 1px solid #000000;
   text-align: center;
-}
-header#page-header a#home-button {
-  color: #000000;
-  text-decoration: none;
-  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 header#page-header div#navInfo {
-  position: absolute;
-  right: 0.5em;
-  top: 0.5em;
   font-weight: 500;
   font-size: 0.8em;
 }
 header#page-header div#navInfo button#navTrigger {
   font-weight: 100;
   font-size: 1.4em;
-  margin-left: 0.2em;
+  margin-right: 0.2em;
   background-color: transparent;
   border: none;
   cursor: pointer;
+}
+header#page-header a#home-button {
+  color: #000000;
+  text-decoration: none;
+  cursor: pointer;
+}
+header#page-header a#home-button span#home-button-gpi {
+  font-size: 0.6em;
+}
+header#page-header span#header-credit {
+  text-align: right;
+  font-size: 0.6em;
+  line-height: 1.4;
+  font-weight: 400;
 }
 
 #nav-container {
@@ -366,10 +331,12 @@ main {
 }
 
 footer#page-footer {
+  font-size: 0.6rem;
   width: 100vw;
   height: 60px;
-  padding: 0.5em;
+  padding: calc((60px - 1.61em) / 2) 0.5em;
   border-top: 1px solid #000000;
+  overflow-y: hidden;
 }
 
 /*# sourceMappingURL=style-common.css.map */

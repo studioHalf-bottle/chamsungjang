@@ -201,8 +201,13 @@ table tbody tr.category01.DI {
 table tbody tr.category01.EN {
   background-color: #e15759;
 }
-table tbody tr.category01 td {
+table tbody tr.category01 td:nth-child(1) {
   font-weight: 700;
+}
+table tbody tr.category01 td:nth-child(2) {
+  font-weight: 700;
+  font-size: 0.6rem;
+  padding-top: 2em;
 }
 table tbody tr.category01 td:nth-child(3) {
   font-weight: 400;
@@ -284,7 +289,7 @@ table tbody tr.category02 div.caption {
   table tbody td:nth-child(2) {
     padding: 0.35rem 0.5rem;
   }
-  table tbody tr.category01 td:nth-child(3) {
+  table tbody tr.category01 td:nth-child(2), table tbody tr.category01 td:nth-child(3) {
     font-size: 0.8rem;
   }
   table tbody tr.category02 td:nth-child(2), table tbody tr.category02 td:nth-child(3), table tbody tr.category02 td:nth-child(4) {

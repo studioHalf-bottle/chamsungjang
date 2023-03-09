@@ -25,11 +25,11 @@
 */
 /* ---------- colour initialize settings ---------- */
 .colour-backgroundGrey {
-  color: #dddddd;
+  color: #e9e9e9;
 }
 
 .colour-background-backgroundGrey {
-  background-color: #dddddd;
+  background-color: #e9e9e9;
 }
 
 .colour-instagram {
@@ -128,7 +128,7 @@ main.index article#column-right > a.home-hyperlink p {
   line-height: 1.4;
 }
 main.index article#column-right > div#home-credit {
-  font-size: 0.5rem;
+  font-size: 0.6rem;
   margin: 0 0 0.5em;
   line-height: 1.35;
 }
@@ -168,7 +168,7 @@ main.index > article#column-left > a.home-hyperlink:hover > div {
 }
 main.index > article#column-right {
   width: 30%;
-  background-color: #dddddd;
+  background-color: #e9e9e9;
 }
 main.index > article#column-right > a.home-hyperlink {
   display: block;
@@ -184,7 +184,7 @@ main.index > article#column-right > a.home-hyperlink > div {
   margin: 0;
   padding: 2rem;
   border-top: 1px solid #000000;
-  background-color: #dddddd;
+  background-color: #e9e9e9;
 }
 main.index > article#column-right > a.home-hyperlink:first-child > div {
   border-top-width: 0;
@@ -202,7 +202,15 @@ main.index > article#column-right > div#home-credit {
   margin: 0;
   padding: 2rem;
   border-top: 1px solid #000000;
-  background-color: #dddddd;
+  background-color: #e9e9e9;
+}
+main.index > article#column-right > div#home-credit a {
+  background-color: #000000;
+  color: #e9e9e9;
+  text-decoration: none;
+}
+main.index > article#column-right > div#home-credit a:visited, main.index > article#column-right > div#home-credit a:active {
+  color: #e9e9e9;
 }
 
 /* ---------- mobile environment ---------- */

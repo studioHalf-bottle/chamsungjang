@@ -75,11 +75,11 @@ $container-padding: 15px;
 $colour-black: #000000;	$colour-backgroundGrey: #e9e9e9; 	$colour-white: #ffffff;
 
 $colour-part-1: #666666;	$colour-part-2: #37c447;	$colour-part-3: #7e37ba;
-$colour-posting-category-data: #666666;	
-$colour-posting-category-video: #37c447;	
-$colour-posting-category-paper: #7e37ba;
-$colour-posting-category-blog: #7e37ba;
-$colour-posting-category-press: #7e37ba;
+$colour-posting-category-data: #7e37ba;	
+$colour-posting-category-video: #51C35B;	
+$colour-posting-category-paper: #0039EA;
+$colour-posting-category-blog: #F67056;
+$colour-posting-category-press: #4FD5BA;
 
 $colour-instagram: #D91089;	$colour-tiktok: #ffffff;	$colour-tiktok-sub: #5eeff1;	
 $colour-facebook: #1D5CBA;	$colour-twitter: #4DD3FD;	$colour-youtube: #FE1212; 
@@ -234,7 +234,7 @@ main.archive {
 				span.posting-category { font-weight: 600; }
 				span.posting-publisher {  }
 			}
-			h2 { font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 0.8em; }
+			h2 { font-size: 1.5rem; line-height: 1.35; font-weight: 700; margin-top: 0; margin-bottom: 0.8em; }
 			nav { margin-bottom: 0.8em; a { font-size: 0.9rem; background-color: $colour-white; color: $colour-black; } }
 			p { font-size: 0.8rem; }
 		}

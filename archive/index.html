@@ -43,8 +43,12 @@
 
 	<body>	
 		<header id="page-header">
-			<a id="home-button" href="../index.html" target="_self">LAB2050 참성장지표</a>
-			<div id="navInfo">GDP에서 참성장지표로 <button type="button" id="navTrigger">☰</button></div>
+			<div id="navInfo"><button type="button" id="navTrigger">☰</button> 메인페이지</div>
+			<a id="home-button" href="../index.html" target="_self">
+				참성장지표 
+				<span id="home-button-gpi">Genuine Progress Indicator</span> 
+			</a>
+			<span id="header-credit">powered by <br>LAB2050, 한마음재단</span>
 		</header>
 		
 		<nav>
@@ -89,65 +93,12 @@
 					<button id="category-filter-button-all" class="category-filter-button selected-category-filter">전체</button>
 					<button id="category-filter-button-paper" class="category-filter-button">보고서</button>
 					<button id="category-filter-button-data" class="category-filter-button">데이터</button>
-					<button id="category-filter-button-blog" class="category-filter-button">블로그 소식</button>
-					<button id="category-filter-button-video" class="category-filter-button">소개영상</button>
+					<button id="category-filter-button-blog" class="category-filter-button">소식</button>
+					<button id="category-filter-button-video" class="category-filter-button">영상</button>
 					<button id="category-filter-button-press" class="category-filter-button">언론 보도</button>
 				</div>
 				
 				<div id="posting-list">
-					<section class="posting-head posting-category-paper">
-						<div class="posting-metadata">
-							<date>2023. 03. 01</date>
-							<span class="posting-category">보고서, </span>
-							<span class="posting-publisher">LAB2050</span>
-						</div>
-						<h2 class="posting-title">dummy post 01</h2>
-					</section>
-
-					<section class="posting-head posting-category-blog">
-						<div class="posting-metadata">
-							<date>2023. 03. 02</date>
-							<span class="posting-category">블로그 소식, </span>
-							<span class="posting-publisher">LAB2050</span>
-						</div>
-						<h2 class="posting-title">dummy post 02</h2>
-					</section>
-
-					<section class="posting-head posting-category-video">
-						<div class="posting-metadata">
-							<date>2023. 03. 03</date>
-							<span class="posting-category">소개영상, </span>
-							<span class="posting-publisher">LAB2050</span>
-						</div>
-						<h2 class="posting-title">dummy post 03</h2>
-					</section>
-
-					<section class="posting-head posting-category-data">
-						<div class="posting-metadata">
-							<date>2023. 03. 04</date>
-							<span class="posting-category">데이터, </span>
-							<span class="posting-publisher">LAB2050</span>
-						</div>
-						<h2 class="posting-title">dummy post 04</h2>
-					</section>
-
-					<section class="posting-head posting-category-press">
-						<div class="posting-metadata">
-							<date>2023. 03. 05</date>
-							<span class="posting-category">언론 보도, </span>
-							<span class="posting-publisher">LAB2050</span>
-						</div>
-						<h2 class="posting-title">dummy post 05</h2>
-					</section>
-
-					<section class="posting-head posting-category-video">
-						<div class="posting-metadata">
-							<date>2023. 03. 06</date>
-							<span class="posting-category">소개영상, </span>
-							<span class="posting-publisher">LAB2050</span>
-						</div>
-						<h2 class="posting-title">dummy post 06</h2>
-					</section>
 				</div>
 				
 			</div>
@@ -155,196 +106,15 @@
 			
 			<div id="detail-articles">
 				<header id="detail-article-header"><button type="button" id="hiding-detail-article-button" onclick="letsHideDetailArticle()">닫기</button></header>
-				
-				<article class="posting-article posting-category-paper">
-					<div class="posting-metadata">
-						<date>2023. 03. 01</date>
-						<span class="posting-category">보고서, </span>
-						<span class="posting-publisher">LAB2050</span>
-					</div>
-					<h2 class="posting-title">dummy post 01</h2>
-					<nav class="posting-relatedLink">
-						<a href="https://www.lab2050.org/34/?idx=10425470&bmode=view" target="_blank">보고서 다운로드 링크 (LAB2050 웹사이트) →</a>
-					</nav>
-					<p>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-						dummy post article 01 <br>
-					</p>
-					<figure>
-						<img src="https://cdn.imweb.me/thumbnail/20220217/8062b0f6200e6.png" alt="" loading="lazy" /><figcaption></figcaption>
-					</figure>
-				</article>
-				
-				<article class="posting-article posting-category-blog">
-					<div class="posting-metadata">
-						<date>2023. 03. 02</date>
-						<span class="posting-category">블로그 소식, </span>
-						<span class="posting-publisher">LAB2050</span>
-					</div>
-					<h2 class="posting-title">dummy post 02</h2>
-					<nav class="posting-relatedLink">
-						<a href="https://medium.com/lab2050/어제와-다른-오늘과-미래를-위한-상상-c8d5421abb02" target="_blank">LAB2050 블로그 게시글 링크 →</a>
-					</nav>
-					<p>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-						dummy post article 02 <br>
-					</p>
-					<figure>
-						<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_pVV7LTcIATFb8Cg-vHBpg.png" alt="" loading="lazy" /><figcaption></figcaption>
-					</figure>
-				</article>
-				
-				<article class="posting-article posting-category-video">
-					<div class="posting-metadata">
-						<date>2023. 03. 03</date>
-						<span class="posting-category">소개영상, </span>
-						<span class="posting-publisher">LAB2050</span>
-					</div>
-					<h2 class="posting-title">dummy post 03</h2>
-					<nav class="posting-relatedLink">
-						<a href="https://youtu.be/YNWBYTZEbCs" target="_blank">영상 시리즈 링크 (YouTube) →</a>
-					</nav>
-					<p>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-						dummy post article 03 <br>
-					</p>
-					<figure>
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/YNWBYTZEbCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption></figcaption>
-					</figure>
-				</article>
-				
-				<article class="posting-article posting-category-paper">
-					<div class="posting-metadata">
-						<date>2023. 03. 04</date>
-						<span class="posting-category">데이터, </span>
-						<span class="posting-publisher">LAB2050</span>
-					</div>
-					<h2 class="posting-title">dummy post 04</h2>
-					<nav class="posting-relatedLink">
-						<a href="https://www.lab2050.org/34/?idx=10425470&bmode=view" target="_blank">보고서 다운로드 링크 (LAB2050 웹사이트) →</a>
-					</nav>
-					<p>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-						dummy post article 04 <br>
-					</p>
-					<figure>
-						<img src="https://cdn.imweb.me/thumbnail/20220217/8062b0f6200e6.png" alt="" loading="lazy" /><figcaption></figcaption>
-					</figure>
-				</article>
-				
-				<article class="posting-article posting-category-blog">
-					<div class="posting-metadata">
-						<date>2023. 03. 05</date>
-						<span class="posting-category">언론 보도, </span>
-						<span class="posting-publisher">LAB2050</span>
-					</div>
-					<h2 class="posting-title">dummy post 05</h2>
-					<nav class="posting-relatedLink">
-						<a href="https://medium.com/lab2050/어제와-다른-오늘과-미래를-위한-상상-c8d5421abb02" target="_blank">LAB2050 블로그 게시글 링크 →</a>
-					</nav>
-					<p>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-						dummy post article 05 <br>
-					</p>
-					<figure>
-						<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_pVV7LTcIATFb8Cg-vHBpg.png" alt="" loading="lazy" /><figcaption></figcaption>
-					</figure>
-				</article>
-				
-				<article class="posting-article posting-category-video">
-					<div class="posting-metadata">
-						<date>2023. 03. 06</date>
-						<span class="posting-category">소개영상, </span>
-						<span class="posting-publisher">LAB2050</span>
-					</div>
-					<h2 class="posting-title">dummy post 06</h2>
-					<nav class="posting-relatedLink">
-						<a href="https://youtu.be/YNWBYTZEbCs" target="_blank">영상 시리즈 링크 (YouTube) →</a>
-					</nav>
-					<p>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-						dummy post article 06 <br>
-					</p>
-					<figure>
-						<div class="iframe-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/YNWBYTZEbCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><figcaption></figcaption>
-						</div>
-					</figure>
-				</article>
-				
 			</div>
 			
 			
 		</main>
 
 		<footer id="page-footer">
-			푸터에 부가 내용을 이렇게저렇게 넣을 수 있습니다.
+			<span>웹페이지 기획: 윤형중, 고동현, 김재경</span>
+			<span>웹페이지 개발: 조현익 (스튜디오 하프-보틀)</span>
+			<span>문의: <a href="mailto:hello@lab2050.org">hello@lab2050.org</a></span>
 		</footer>
 
 		<!-- main vue.js framework -->

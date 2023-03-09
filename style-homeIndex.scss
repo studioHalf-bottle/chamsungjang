@@ -150,7 +150,7 @@ main.index {
 			h2 { font-family: $font-family-serif; font-size: 1.25rem; margin-top: 0; margin: 0 0 0.5em; line-height: 1.35;}
 			p { font-size: 0.75rem; line-height: 1.4; }
 		}
-		> div#home-credit { font-size: 0.5rem; margin: 0 0 0.5em; line-height: 1.35; }
+		> div#home-credit { font-size: 0.6rem; margin: 0 0 0.5em; line-height: 1.35; }
 	}
 	
 	> article {
@@ -193,6 +193,7 @@ main.index {
 			> div#home-credit {
 				width: 100%; height: auto; margin: 0; padding: $article-padding; border-top: 1px solid $colour-black;
 				background-color: $colour-backgroundGrey; 
+				a { background-color: $colour-black; color: $colour-backgroundGrey; text-decoration: none; &:visited, &:active { color: $colour-backgroundGrey; } }
 			}
 		}
 	}

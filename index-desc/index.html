@@ -43,8 +43,12 @@
 
 	<body>	
 		<header id="page-header">
-			<a id="home-button" href="../index.html" target="_self">LAB2050 참성장지표</a>
-			<div id="navInfo">GDP에서 참성장지표로 <button type="button" id="navTrigger">☰</button></div>
+			<div id="navInfo"><button type="button" id="navTrigger">☰</button> 메인페이지</div>
+			<a id="home-button" href="../index.html" target="_self">
+				참성장지표 
+				<span id="home-button-gpi">Genuine Progress Indicator</span> 
+			</a>
+			<span id="header-credit">powered by <br>LAB2050, 한마음재단</span>
 		</header>
 		
 		<nav>
@@ -86,7 +90,10 @@
 			
 			<article class="text-article" id="article-01">
 				<h1>참성장지표의 구성</h1>
-				dummy text dummy text
+					<p>
+						참성장지표는 5개 영역(경제, 일과 여가, 인적자본, 디지털, 환경)의 세부지표로 구성되어 있다. <br>
+						각각의 지표들이 어떤 데이터들로 만들어졌는지, 또 어떤 계산식으로 도출되었는지를 아래에서 순서대로 확인할 수 있다. 
+					</p>
 <!--				<section class="pseudo-scroller-section">-->
 					<div class="graph-container-ratio-7-10">
 						<!-- runtime with JavaScript -->
@@ -94,291 +101,6 @@
 					</div>
 <!--				</section>-->
 			</article>
-			
-<!--
-			<article class="graph-article" id="article-04">
-				<section class="column-left">
-					<p>세부 지표별 측정 결과</p>
-				</section>
-				<section class="column-right">
-					<div class="graph-container-ratio-7-10">
-						<table>
-							<thead>
-								<tr>
-									<th title="category01_kr">영역</th>
-									<th title="category02_kr">지표</th>
-									<th title="description_kr">설명</th>
-									<th title="formula_kr">계산법</th>
-									<th title="reference_kr">원자료 출처</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr class="GPI category01">
-									<td>참성장지표</td>
-									<td></td>
-									<td>시장에서 창출되는 가치에 더해 사회환경적 가치를 포괄해 화폐화해 국민 경제의 발전 수준을 종합적으로 측정</td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr class="Ec category01">
-									<td>경제</td>
-									<td></td>
-									<td>가계 소비를 중심으로 하되, 소득불평등과 순투자 및 순대외자산의 증감, 정부의 공공서비스를 고려해 구성</td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr class="Ec category02">
-									<td>경제</td>
-									<td>가계소비지출</td>
-									<td>가계의 소비지출 총액</td>
-									<td>가계최종소비지출 총액</td>
-									<td>한국은행(국민계정)</td>
-								</tr>
-								<tr class="Ec category02">
-									<td>경제</td>
-									<td>내구재 서비스</td>
-									<td>가계의 내구재 자산에서 창출되는 서비스 후생</td>
-									<td>최근 10년 평균 내구재 지출액</td>
-									<td>한국은행(국민계정)</td>
-								</tr>
-								<tr class="Ec category02">
-									<td>경제</td>
-									<td>내구재 지출</td>
-									<td>가계 투자에 해당하는 내구재에 대한 지출금액</td>
-									<td>내구재(준내구재 포함) 지출</td>
-									<td>한국은행(국민계정)</td>
-								</tr>
-								<tr class="Ec category02">
-									<td>경제</td>
-									<td>방어지출</td>
-									<td>의료비, 의식주비용, 보험료 지출 등 가계 편익 감소 방지를 위해 어쩔 수 없이 지출하는 비용</td>
-									<td>0.5×(주류 및 담배+의료보건+기타) + 0.25×(식료품 및 비주류음료품+의류 및 신발+임대료 및 수도광열+교통+정보 통신+교육 서비스) + 0.125×음식점 및 숙박 서비스</td>
-									<td>한국은행(국민계정)</td>
-								</tr>
-								<tr class="Ec category02">
-									<td>경제</td>
-									<td>소득불평등 비용</td>
-									<td>소득불평등이 낮은 사회일수록 구성원 전체의 사회적 효용이 더 커질 수 있다는 관점에서 가구소득 지니계수를 활용해 조정</td>
-									<td>(가계소비지출 + 내구재 서비스 - 내구재 지출 - 방어지출) × (해당 년도 지니계수 ÷ 기준년(1991) 지니계수)</td>
-									<td>통계청(가계동향조사, 가계금융복지조사), 한국은행(국민계정)</td>
-								</tr>
-								<tr class="Ec category02">
-									<td>경제</td>
-									<td>공공소비지출</td>
-									<td>정부의 최종소비지출 중 항목별 후생 기여도를 감안하여 조정하고, 민간비영리단체의 소비지출을 포괄해 공공 영역에서 창출되는 후생 측정</td>
-									<td>0.25×(국방+공공질서 및 안전) + 0.5×(경제업무+교육+환경보호+일반공공행정+보건+주택 및 지역개발+사회보호) + 0.75×오락 문화 및 종교 + 사회보장현물수혜 + 가계에 봉사하는 비영리단체의 최종소비지출</td>
-									<td>한국은행(국민계정)</td>
-								</tr>
-								<tr class="Ec category02">
-									<td>경제</td>
-									<td>순자본형성</td>
-									<td>GDP의 기업 투자에 대응하는 항목이지만 건물 및 생산 설비의 감가상각을 고려함</td>
-									<td>총자본형성 - 고정자본소모</td>
-									<td>한국은행(국민계정)</td>
-								</tr>
-								<tr class="Ec category02">
-									<td>경제</td>
-									<td>순대외자산 증감</td>
-									<td>국제 무역의 효과 중 내외국인의 투자행위의 결과로 소득 및 소비와 밀접한 대외자산 변동을 측정</td>
-									<td>국제수지 금융계정 × 원/미국달러(평균환율)</td>
-									<td>한국은행(국민계정, 주요국 통화의 대원화환율)</td>
-								</tr>
-								<tr class="Ec category02">
-									<td>경제</td>
-									<td>도로 서비스</td>
-									<td>무료로 제공되는 도로 서비스의 가치</td>
-									<td>도로서비스(=자산별 순자본스톡 중 토목건설 × 토목건설 대비 도로 스톡 비중) + 고속도로통행세(1종+2종)</td>
-									<td>한국은행(국민계정), 한국도로공사(고속도로교통량통계)</td>
-								</tr>
-								<tr class="WL category01">
-									<td>일과 여가</td>
-									<td></td>
-									<td>생산의 중요한 기반이면서도 기존 경제지표에서 빠져 있는 가사·돌봄노동의 가치와 자원봉사, 여가 및 통근시간에 따른 후생 증감을 고려해 구성</td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr class="WL category02">
-									<td>일과 여가</td>
-									<td>가사노동</td>
-									<td>가사 노동의 가치를 대체 비용 접근법으로 측정</td>
-									<td>연간 가사노동시간 × 관련 직종 평균임금률 × 15세 이상 인구 수</td>
-									<td>통계청(생활시간조사, 장래인구추계) , 고용노동부(고용형태별 근로실태조사)</td>
-								</tr>
-								<tr class="WL category02">
-									<td>일과 여가</td>
-									<td>돌봄노동</td>
-									<td>돌봄 노동의 가치를 대체 비용 접근법으로 측정</td>
-									<td>연간 돌봄노동시간 × 관련 직종 평균임금률 × 15세 이상 인구 수</td>
-									<td>통계청(생활시간조사, 장래인구추계), 고용노동부(고용형태별 근로실태조사)</td>
-								</tr>
-								<tr class="WL category02">
-									<td>일과 여가</td>
-									<td>가사돌봄노동 격차 비용</td>
-									<td>가사·돌봄 노동이 골고루 분담되지 못하는 점을 사회적 비용으로 고려함</td>
-									<td>(가사노동 + 돌봄노동) × (해당년 가사돌봄노동 시간 지니계수 ÷ 기준년(1997) 지니계수)</td>
-									<td>통계청(생활시간조사)</td>
-								</tr>
-								<tr class="WL category02">
-									<td>일과 여가</td>
-									<td>자원봉사시간</td>
-									<td>다양한 형태로 이뤄지는 자원봉사활동의 가치를 대체 비용 접근법으로 측정</td>
-									<td>연간 자원봉사시간 × 전직종 평균임금률 × 15세 이상 인구 수</td>
-									<td>통계청(생활시간조사)</td>
-								</tr>
-								<tr class="WL category02">
-									<td>일과 여가</td>
-									<td>여가시간 증감</td>
-									<td>취업자의 여가시간 증감에 한정해 그 가치를 측정</td>
-									<td>(취업자 연간 여가시간 - 취업자 기준년(2019) 여가시간) × 전 직종 평균임금률 × 취업자 수</td>
-									<td>통계청(생활시간조사, 경제활동인구조사)</td>
-								</tr>
-								<tr class="WL category02">
-									<td>일과 여가</td>
-									<td>출퇴근 시간 비용</td>
-									<td>소득 창출에 동반되는 출퇴근의 직·간접적인 비용을 측정</td>
-									<td>간접 비용(연간 통근 시간 × 전직종 평균임금률 × 취업자 수) + 직접 비용(평균 이동시간 중 통근 시간 비중 × 연간 평균 교통비 × 15세 이상 인구 수)</td>
-									<td>통계청(생활시간조사, 경제활동인구조사, 가계동향조사)</td>
-								</tr>
-								<tr class="WL category02">
-									<td>일과 여가</td>
-									<td>가족변화 비용</td>
-									<td>이혼과정에서 발생한 소송과 상담에 따르는 방어적 사적 지출을 사회적 비용으로 측정함</td>
-									<td>재판이혼 건 수 × 이혼 소송 건 당 비용</td>
-									<td>숨고(이혼소송 예상 비용), 통계청(인구동향조사)</td>
-								</tr>
-								<tr class="HC category01">
-									<td>인적자본</td>
-									<td></td>
-									<td>높은 교육 수준의 인적자본이 창출하는 사회적 가치와 범죄에 따른 사회적 비용, 실업과 불완전 취업으로 인한 사회적 손실을 측정</td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr class="HC category02">
-									<td>인적자본</td>
-									<td>고등교육의 사회적 가치</td>
-									<td>고등교육을 통한 사회 전반의 생산성 향상, 지식을 통한 행복 제공 등의 가치 측정</td>
-									<td>1인당 고등교육의 사회적가치 × 역량 수준 조정 계수 ×역량 격차 조정 계수 × 25~64세 인구 × 고등교육 이수율</td>
-									<td>Hill et at al.(2005), OECD(Education at a Glance, PIAAC), 통계청(장래인구추계) </td>
-								</tr>
-								<tr class="HC category02">
-									<td>인적자본</td>
-									<td>범죄의 사회적 비용</td>
-									<td>범죄 발생에 대응 단계에서 유발되는 사회적 비용을 측정</td>
-									<td>범죄지수(연간 고의적 살인에 의한 10만명당 희생자 수 ÷ 기준년 고의적 살인에 의한 10만명당 희생자 수(2008)) × 1인당 범죄로 인한 비용 × 총 인구</td>
-									<td>UNODC(Homicide Country Data), 조흥식 외(2010), 통계청(장래인구추계)</td>
-								</tr>
-								<tr class="HC category02">
-									<td>인적자본</td>
-									<td>실업 비용</td>
-									<td>자본주의 시스템의 구조적 한계로 인해 발생하는 실업에 따른 인적자본 미활용의 사회적 비용</td>
-									<td>실업자 수 × 연간 평균임금</td>
-									<td>통계청(경제활동인구조사), 고용노동부(고용형태별 근로실태조사)</td>
-								</tr>
-								<tr class="HC category02">
-									<td>인적자본</td>
-									<td>불완전 취업 비용</td>
-									<td>자신이 희망하는 근로시간보다 적게 일하는 불완전취업의 사회적 비용</td>
-									<td>시간제근로자 규모 × 비자발적 시간제근로자 비율 × 시간제 근로자 손실임금(=시간제근로자 연평균 임금 × 40/시간제근로자 주당 평균 근로시간)</td>
-									<td>통계청(경제활동인구조사, 근로형태별부가조사), 고용노동부(고용형태별 근로실태조사)</td>
-								</tr>
-								<tr class="DI category01">
-									<td>디지털</td>
-									<td></td>
-									<td>편익을 제공하지만 시장에서 집계되지 않는 디지털 서비스의 가치를 산출</td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr class="DI category02">
-									<td>디지털</td>
-									<td>무료 디지털 서비스의 가치</td>
-									<td>무료 디지털 서비스의 확대가 가져오는 편의와 혜택을 웹실험을 통해 수용 의사(willingness to accept) 방식으로 추정</td>
-									<td>연간 무료 디지털 서비스의 가치 × 총 인구 × 인터넷이용률</td>
-									<td>Carson et al. (2014), 한국지능정보사회진흥원(인터넷이용실태조사), 통계청(장래인구추계)</td>
-								</tr>
-								<tr class="DI category02">
-									<td>디지털</td>
-									<td>디지털 서비스로 인한 삶의 질 감소</td>
-									<td>설문조사를 통해 무료 디지털 서비스가 삶의 질에 미치는 부정적 영향을 측정</td>
-									<td>무료 디지털 서비스 가치 × 삶의 질 감소 효과</td>
-									<td>자체 설문조사</td>
-								</tr>
-								<tr class="EN category01">
-									<td>환경</td>
-									<td></td>
-									<td>경제활동으로 인한 환경 자원의 훼손과 그에 따른 현재와 미래 후생의 감소를 측정하기 위해 대기 및 수질오염의 비용, 기후변화 및 폐기물 비용 등을 측정하여 차감</td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr class="EN category02">
-									<td>환경</td>
-									<td>수질 오염 비용</td>
-									<td>제한적인 범위에서 수질오염에 따른 사회적 비용을 측정</td>
-									<td>환경오염방지시설업 수주실적</td>
-									<td>환경부(환경오염방지시설업 수주실적)</td>
-								</tr>
-								<tr class="EN category02">
-									<td>환경</td>
-									<td>대기 오염 비용</td>
-									<td>설문조사를 통해 초미세먼지 농도를 현재보다 10μg/㎥ 낮추기 위한 지불용의액을 기준으로 사회적 비용을 측정</td>
-									<td>1인당 대기오염 비용 × 총 인구</td>
-									<td>서울연구원(황인창 외, 2018), 통계청(장래인구추계)</td>
-								</tr>
-								<tr class="EN category02">
-									<td>환경</td>
-									<td>폐기물 비용</td>
-									<td>생활·사업장·건설 폐기물 발생에 따른 사회구성원의 신체적, 정신적 피해 등의 전체 사회적 비용</td>
-									<td>폐기물(생활·사업장·건설) 발생량 ÷ 생활폐기물 발생량 × 생활폐기물 관리예산 집행내역</td>
-									<td>환경부(전국 폐기물 발생 및 처리현황)</td>
-								</tr>
-								<tr class="EN category02">
-									<td>환경</td>
-									<td>연안습지 면적 변화</td>
-									<td>연안습지 면적 증감에 따른 생태적, 사회적 편익(비용)을 측정</td>
-									<td>기준년(2013) 연안습지 가치 ÷ 기준년(2013) 연안습지 면적 × 연간 연안습지 면적 변화</td>
-									<td>해양수산부(전국갯벌면적조사), 해양수산부(2012)</td>
-								</tr>
-								<tr class="EN category02">
-									<td>환경</td>
-									<td>산림면적 변화</td>
-									<td>산림 면적 증감에 따른 생태적, 사회적 편익(비용)을 측정</td>
-									<td>기준년(2018) 산림 가치 ÷ 기준년(2018) 산림 면적 × 연간 산림 면적 변화</td>
-									<td>산림청(산림기본통계), 김기동 외(국립산림과학원, 2020)</td>
-								</tr>
-								<tr class="EN category02">
-									<td>환경</td>
-									<td>기후변화 비용</td>
-									<td>온실가스 단위 배출이 미치는 피해를 해당 연도뿐 아니라 미래의 예상되는 피해까지 모두 고려해 현재가치로 환산한 탄소의 사회적 비용</td>
-									<td>온실가스 1톤의 사회적 비용 × 원/달러 환율(평균환율) × 연간 온실가스 순배출량</td>
-									<td>IWG(2021), 온실가스종합정보센터(국가 온실가스 통계), 한국은행(주요국 통화의 대원화환율)</td>
-								</tr>
-								<tr class="EN category02">
-									<td>환경</td>
-									<td>비재생에너지고갈 비용</td>
-									<td>재생불가능한 화석연료 연소 과정에서 발생하는 자연자본(natural capital)의 영구적 손실에 따른 비용</td>
-									<td>화석연료 대체 비용 × 원/달러 환율(평균환율) × 연간 석탄·석유·LNG 사용량</td>
-									<td>O’Mahony et al. (2018), Pais et al. (2019), 에너지경제연구원(에너지통계연보)</td>
-								</tr>
-								<tr class="EN category02">
-									<td>환경</td>
-									<td>자연재해 비용</td>
-									<td>홍수나 태풍 등 매년 피해가 발생하는 자연재해에 따른 사회적 비용</td>
-									<td>자연재난 총복구비</td>
-									<td>행정안전부(재해연보)</td>
-								</tr>
-								<tr class="GDP category01">
-									<td>GDP (국내총생산)</td>
-									<td></td>
-									<td>가계, 정부, 기업 등 국내 부분과 국외 부분으로 이루어진 최종수요자의 지출 (한국은행(2020), '우리나라의 국민계정체계')</td>
-									<td></td>
-									<td>한국은행(국민계정)</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</section>
-			</article>
--->
-			
 			
 			<article class="text-article" id="article-02">
 				<section class="pseudo-scroller-section">
@@ -400,7 +122,7 @@
 								</tr>
 								<tr class="GDP category01">
 									<td>GDP (국내총생산)</td>
-									<td colspan="2">가계, 정부, 기업 등 국내 부분과 국외 부분으로 이루어진 최종수요자의 지출 (한국은행(2020), '우리나라의 국민계정체계')</td>
+									<td colspan="2">가계, 정부, 기업 등 국내 부분과 국외 부분으로 이루어진 최종수요자의 지출 <sup>(한국은행(2020), '우리나라의 국민계정체계')</sup></td>
 									<td>한국은행 <sup>(국민계정)</sup></td>
 								</tr>
 								<tr class="Ec category01">
@@ -625,7 +347,9 @@
 		</main>
 
 		<footer id="page-footer">
-			푸터에 부가 내용을 이렇게저렇게 넣을 수 있습니다.
+			<span>웹페이지 기획: 윤형중, 고동현, 김재경</span>
+			<span>웹페이지 개발: 조현익 (스튜디오 하프-보틀)</span>
+			<span>문의: <a href="mailto:hello@lab2050.org">hello@lab2050.org</a></span>
 		</footer>
 
 		<!-- main vue.js framework -->

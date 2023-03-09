@@ -43,8 +43,12 @@
 
 	<body>	
 		<header id="page-header">
-			<a id="home-button" href="../index.html" target="_self">LAB2050 참성장지표</a>
-			<div id="navInfo">GDP에서 참성장지표로 <button type="button" id="navTrigger">☰</button></div>
+			<div id="navInfo"><button type="button" id="navTrigger">☰</button> 메인페이지</div>
+			<a id="home-button" href="../index.html" target="_self">
+				참성장지표 
+				<span id="home-button-gpi">Genuine Progress Indicator</span> 
+			</a>
+			<span id="header-credit">powered by <br>LAB2050, 한마음재단</span>
 		</header>
 		
 		
@@ -68,7 +72,14 @@
 			<article class="text-article" id="article-02">
 				<h4>참성장지표란?</h4>
 				<p>참성장지표는 크게 경제, 일과 여가, 인적자본과 디지털, 그리고 환경까지 5개 영역으로 구성되어 있다. </p>
-				<p>경제 영역은 우리 삶에 직접적인 영향을 미치는 소비 수준을 중심에 두고 소득불평등과 공공 부문의 역할, 미래 투자 등을 반영한다. 일과 여가 영역은 가사와 돌봄 등 시장에서 그 가치를 제대로 평가받지 못하는 활동들과 시간 자원의 가치를 포함하고 있다. 인적자본 영역은 교육의 가치와 범죄와 실업의 사회적 비용, 디지털 영역은 무료 디지털 서비스의 가치와 부작용 등을 담고 있다. 환경 영역은 자연 자원의 가치와 오염에 따른 사회적 비용 그리고 기후변화로 우려되는 비용을 포괄하고 있다. 세부 지표별 구성과 측정 결과는 다음과 같다. </p>
+				<ul>
+					<li>경제 영역은 우리 삶에 직접적인 영향을 미치는 소비 수준을 중심에 두고 소득불평등과 공공 부문의 역할, 미래 투자 등을 반영한다. </li>
+					<li>일과 여가 영역은 가사와 돌봄 등 시장에서 그 가치를 제대로 평가받지 못하는 활동들과 시간 자원의 가치를 포함하고 있다. </li>
+					<li>인적자본 영역은 교육의 가치와 범죄와 실업의 사회적 비용 등을 담고 있다. </li>
+					<li>디지털 영역은 무료 디지털 서비스의 가치와 부작용 등을 담고 있다. </li>
+					<li>환경 영역은 자연 자원의 가치와 오염에 따른 사회적 비용 그리고 기후변화로 우려되는 비용을 포괄하고 있다. </li>
+				</ul>
+				<p>세부 지표별 구성과 측정 결과는 다음과 같다. </p>
 			</article>
 			
 			<article class="graph-article" id="article-03">
@@ -140,7 +151,9 @@
 		</main>
 
 		<footer id="page-footer">
-			푸터에 부가 내용을 이렇게저렇게 넣을 수 있습니다.
+			<span>웹페이지 기획: 윤형중, 고동현, 김재경</span>
+			<span>웹페이지 개발: 조현익 (스튜디오 하프-보틀)</span>
+			<span>문의: <a href="mailto:hello@lab2050.org">hello@lab2050.org</a></span>
 		</footer>
 
 		<!-- main vue.js framework -->
